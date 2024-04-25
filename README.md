@@ -9,10 +9,10 @@ T_azul="VIVEN ANIMALES"
 
 T_morado="PERSONA GRANDE"
 
-amarillo=["Pala", "Taladro", "Martillo", "Destornillador"]
+amarillo=Pala, Taladro, Martillo, Destornillador
 
-verde=["Peso", "Marco", "Libra", "Dolar"]
+verde=Peso, Marco, Libra, Dolar
 
-azul=["Hogar", "Aquario", "Hormiguero", "Establo"]
+azul=Hogar, Aquario, "Hormiguero, Establo
 
-morado=["Armario", "Gigante", "Mastodonte", "Magnate"]
+morado=Armario, Gigante, Mastodonte, Magnate
