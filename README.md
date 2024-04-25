@@ -13,6 +13,6 @@ amarillo=Pala, Taladro, Martillo, Destornillador
 
 verde=Peso, Marco, Libra, Dolar
 
-azul=Hogar, Aquario, "Hormiguero, Establo
+azul=Hogar, Aquario, Hormiguero, Establo
 
 morado=Armario, Gigante, Mastodonte, Magnate
