@@ -9,7 +9,7 @@ T_azul="JUEGOS TRADICIONALES"
 
 T_morado="ALTERNACIÓN SUCESIVA"
 
-amarillo=Sirena, Señal, Campana, Reloj
+amarillo=holasoyped, Señal, Campana, Reloj
 
 verde=Estrella, Caballo, Manta, Cangrejo
 
