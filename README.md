@@ -1,18 +1,19 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ALARMA"
+T_amarillo="HERRAMIENTAS"
 
-T_verde="ANIMALES MARÍTIMOS"
+T_verde="MONEDAS"
 
-T_azul="JUEGOS TRADICIONALES"
+T_azul="VIVEN ANIMALES"
 
-T_morado="ALTERNACIÓN SUCESIVA"
+T_morado="PERSONA GRANDE"
 
-amarillo=Sirena, Señal, Campana, Reloj
+amarillo=Pala, Taladro, Martillo, Destornillador
 
-verde=Estrella, Caballo, Manta, Cangrejo
+verde=Peso, Marco, Libra, Dolar
 
-azul=Cometa, Muñeca, Saco, Cuerda
+azul=Hogar, Aquario, Hormiguero, Establo
 
-morado=Mano, Rueda, Turno, Juego
+morado=Armario, Gigante, Mastodonte, Magnate
+
