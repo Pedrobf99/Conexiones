@@ -7,9 +7,9 @@ T_verde="PERSONAJES DE BOB ESPONJA"
 
 T_azul="FIESTA DE ________"
 
-T_morado="PELÍCULAS DE ANTONIO BANDERAS"
+T_morado="PELÍCULAS ANTONIO BANDERAS"
 
-amarillo=Gordo,Once,jackpot,niño
+amarillo=Gordo,Once,Jackpot,Niño
 
 verde=Ardilla,Ballena,Cangrejo,Plankton
 
