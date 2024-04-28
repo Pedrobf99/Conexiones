@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="LOTERÍA"
+T_amarillo="ACCESORIOS DE JOYERÍA"
 
-T_verde="PERSONAJES DE BOB ESPONJA"
+T_verde="PERSONAJES MARIO BROS"
 
-T_azul="FIESTA DE ________"
+T_azul="EN UN BELÉN HAY..."
 
-T_morado="PELÍCULAS ANTONIO BANDERAS"
+T_morado="BANCO DE _____"
 
-amarillo=Gordo,Once,Jackpot,Niño
+amarillo=Anillo,Corona,Pulsera,Pendiente
 
-verde=Ardilla,Ballena,Cangrejo,Plankton
+verde=Fontanero,Seta,Tortuga,Dinosaurio
 
-azul=Espuma,Pijamas,Aniversario,Cumpleaños 
+azul=Carpintero,Reyes,Pastores,Virgen 
 
-morado=Zorro,Gato,33,Frida
+morado=Peces,España,Sangre,Alimentos
 
 
 
