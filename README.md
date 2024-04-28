@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ALARMA"
+T_amarillo="LOTERÍA"
 
-T_verde="ANIMALES MARÍTIMOS"
+T_verde="PERSONAJES DE BOB ESPONJA"
 
-T_azul="JUEGOS TRADICIONALES"
+T_azul="FIESTA DE ________"
 
-T_morado="ALTERNACIÓN SUCESIVA"
+T_morado="PELÍCULAS DE ANTONIO BANDERAS"
 
-amarillo=Sirena, Señal, Campana, Reloj
+amarillo=Gordo,Once,jackpot,niño
 
-verde=Estrella, Caballo, Manta, Cangrejo
+verde=Ardilla,Ballena,Cangrejo,Plankton
 
-azul=Cometa, Muñeca, Saco, Cuerda
+azul=Espuma,Pijamas,Aniversario,Cumpleaños 
 
-morado=Mano, Rueda, Turno, Juego
+morado=Zorro,Gato,33,Frida
 
 
 
