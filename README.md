@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ACCESORIOS DE JOYERÍA"
+T_amarillo="FORMAS DE NADAR"
 
-T_verde="PERSONAJES MARIO BROS"
+T_verde="SIGNOS DEL ZODIACO"
 
-T_azul="EN UN BELÉN HAY..."
+T_azul="CASA DEL ___ (CORUÑA)"
 
-T_morado="BANCO DE _____"
+T_morado="INICIO NOTAS MUSICALES"
 
-amarillo=Anillo,Corona,Pulsera,Pendiente
+amarillo=Libre,Mariposa,Dorsal,Pecho
 
-verde=Fontanero,Seta,Tortuga,Dinosaurio
+verde=Acuario,Gemelos,Escorpión,Peces
 
-azul=Carpintero,Reyes,Pastores,Virgen 
+azul=Hombre,Agua,Mar,Ciencia 
 
-morado=Peces,España,Sangre,Alimentos
+morado=Lago,Faringe,Silueta,Misa
 
 
 
