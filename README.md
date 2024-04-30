@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="FORMAS DE NADAR"
+T_amarillo="TRABAJO, OCUPACIÓN"
 
-T_verde="SIGNOS DEL ZODIACO"
+T_verde="SANTA ___"
 
-T_azul="CASA DEL/LA ___ (CORUÑA)"
+T_azul="DENTRO DE ACEITUNAS"
 
-T_morado="INICIO NOTAS MUSICALES"
+T_morado="SERIES TRADUCIDAS"
 
-amarillo=Libre,Mariposa,Dorsal,Pecho
+amarillo=Chamba,Operación,Función,Plaza
 
-verde=Acuario,Gemelos,Escorpión,Peces
+verde=Cruz,Comba,Mónica,Fe
 
-azul=Hombre,Agua,Mar,Ciencias 
+azul=Anchoas,Pimientos,Hueso,Nada 
 
-morado=Lago,Faringe,Silueta,Misa
+morado=Amigos,Sucesión,Vikingos,Trajes
 
 
 
