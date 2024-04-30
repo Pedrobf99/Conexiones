@@ -5,7 +5,7 @@ T_amarillo="FORMAS DE NADAR"
 
 T_verde="SIGNOS DEL ZODIACO"
 
-T_azul="CASA DEL ___ (CORUÑA)"
+T_azul="CASA DEL/LA ___ (CORUÑA)"
 
 T_morado="INICIO NOTAS MUSICALES"
 
