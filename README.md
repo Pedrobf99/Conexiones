@@ -1,19 +1,19 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TRABAJO, OCUPACIÓN"
+T_amarillo="DENTRO DE ACEITUNAS"
 
 T_verde="SANTA ___"
 
-T_azul="DENTRO DE ACEITUNAS"
+T_azul="TRABAJO, OCUPACIÓN"
 
 T_morado="SERIES TRADUCIDAS"
 
-amarillo=Chamba,Operación,Función,Plaza
+amarillo=Anchoas,Pimientos,Hueso,Nada
 
 verde=Cruz,Comba,Mónica,Fe
 
-azul=Anchoas,Pimientos,Hueso,Nada 
+azul=Chamba,Operación,Función,Plaza
 
 morado=Amigos,Sucesión,Vikingos,Trajes
 
