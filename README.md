@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DENTRO DE ACEITUNAS"
+T_amarillo="DE GRAVEDAD"
 
-T_verde="SANTA ___"
+T_verde="TIPO DE PAGO"
 
-T_azul="TRABAJO, OCUPACIÓN"
+T_azul="DISCIPLINAS DE ATLETISMO"
 
-T_morado="SERIES TRADUCIDAS"
+T_morado="MAESTROS DE AJEDREZ"
 
-amarillo=Anchoas,Pimientos,Hueso,Nada
+amarillo=Dificultad,Importancia,Peligro,Fondo
 
-verde=Cruz,Comba,Mónica,Fe
+verde=Paga,Cuota,Dieta,Cupo
 
-azul=Chamba,Operación,Función,Plaza
+azul=Peso,Marcha,Triple,Fondo
 
-morado=Amigos,Sucesión,Vikingos,Trajes
+morado=Gran,Fide,Internacional,Nacional
 
 
 
