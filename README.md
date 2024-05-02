@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DE GRAVEDAD"
+T_amarillo="PAPEL DE ___"
 
-T_verde="TIPO DE PAGO"
+T_verde="EN LA CABEZA"
 
-T_azul="DISCIPLINAS DE ATLETISMO"
+T_azul="UNIDADES DE MEDIDA"
 
-T_morado="MAESTROS DE AJEDREZ"
+T_morado="A LA MITAD"
 
-amarillo=Dificultad,Importancia,Peligro,Magnitud
+amarillo=Aluminio,Cocina,Cebolla,Lija
 
-verde=Paga,Cuota,Dieta,Cupo
+verde=Pamela,Gafas,Pañuelo,Corona
 
-azul=Peso,Marcha,Triple,Fondo
+azul=Pie,Hora,Kilo,Grado
 
-morado=Gran,Fide,Internacional,Nacional
+morado=Ping,Kit,Ding,Tic
 
 
 
