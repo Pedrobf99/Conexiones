@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="PAPEL DE ___"
+T_amarillo="CREMA ___"
 
-T_verde="EN LA CABEZA"
+T_verde="PELÍCULAS DE HITCHCOCK"
 
-T_azul="UNIDADES DE MEDIDA"
+T_azul="COSAS SOBRE MAMÁ"
 
-T_morado="A LA MITAD"
+T_morado="INICIO MESES DEL AÑO"
 
-amarillo=Aluminio,Cocina,Cebolla,Lija
+amarillo=Solar,Facial,Pastelera,Agria
 
-verde=Pamela,Gafas,Pañuelo,Corona
+verde=Vértigo,Pájaros,Frenesí,Trama
 
-azul=Pie,Hora,Kilo,Grado
+azul=Biología,Repostería,Jefe,Dorado
 
-morado=Ping,Kit,Ding,Tic
+morado=Novato,Agonía,Mareo,Diccionario 
 
 
 
