@@ -15,7 +15,7 @@ verde=Vértigo,Pájaros,Frenesí,Trama
 
 azul=Biología,Repostería,Jefe,Dorado
 
-morado=Novato,Agonía,Mareo,Diccionario 
+morado=Novato,Agonía,Mareo,Dictar 
 
 
 
