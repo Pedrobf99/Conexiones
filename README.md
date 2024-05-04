@@ -1,21 +1,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="CREMA ___"
+T_amarillo="SERES MITOLÓGICOS"
 
-T_verde="PELÍCULAS DE HITCHCOCK"
+T_verde="EN UN BAÑO"
 
-T_azul="COSAS SOBRE MAMÁ"
+T_azul="PARTES DE UN SKATE"
 
-T_morado="INICIO MESES DEL AÑO"
+T_morado="PROVINICA - LETRA CAMBIADA"
 
-amarillo=Solar,Facial,Pastelera,Agria
+amarillo=Medusa,Gárgola,Arpía,Tifón
 
-verde=Vértigo,Pájaros,Frenesí,Trama
+verde=Toalla,Grifo,Llave,Pila
 
-azul=Biología,Repostería,Jefe,Dorado
+azul=Lija,Eje,Tabla,Rueda
 
-morado=Novato,Agonía,Mareo,Dictar 
+morado=Cuenco,Ávil,Armería,Cáliz 
 
 
 
