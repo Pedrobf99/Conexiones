@@ -1,21 +1,22 @@
+
 # Conexiones
 Juego conexiones
 
-T_amarillo="SERES MITOLÓGICOS"
+T_amarillo="HECHOS CON PAJA"
 
-T_verde="EN UN BAÑO"
+T_verde="LO ENCUENTRAS CERCA DEL AGUA"
 
-T_azul="PARTES DE UN SKATE"
+T_azul="MASCOTAS DE LA FAMILIA"
 
-T_morado="PROVINICA - LETRA CAMBIADA"
+T_morado="TIPOS DE MANZANAS"
 
-amarillo=Medusa,Gárgola,Arpía,Tifón
+amarillo=Sombrero,Sandalia,Bolso,Cesto
 
-verde=Toalla,Grifo,Llave,Pila
+verde=Playa,Arrecife,Acantilado,Isla
 
-azul=Lija,Eje,Tabla,Rueda
+azul=Mostaza,León,Luna,Golfo
 
-morado=Cuenco,Ávil,Armería,Cáliz 
+morado=Nueva York,Roja,Golden,Iphone 
 
 
 
