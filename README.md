@@ -2,21 +2,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="HECHOS CON PAJA"
+T_amarillo="COMIDA ___"
 
-T_verde="LO ENCUENTRAS CERCA DEL AGUA"
+T_verde="EL SEÑOR DE LOS ANILLOS"
 
-T_azul="MASCOTAS DE LA FAMILIA"
+T_azul="PRESENTADORES DE TV"
 
-T_morado="TIPOS DE MANZANAS"
+T_morado="EMPIEZAN CON RESIDENTES"
 
-amarillo=Sombrero,Sandalia,Bolso,Cesto
+amarillo=China,Basura,Rápida,Casera
 
-verde=Playa,Arrecife,Acantilado,Isla
+verde=Anillo,Tesoro,Caballos,Torre
 
-azul=Mostaza,León,Luna,Golfo
+azul=Motos,Campos,Alaska,Cruz
 
-morado=Nueva York,Roja,Golden,Iphone 
+morado=Firma,Eirís,Pirada,Miranda 
 
 
 
