@@ -2,21 +2,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="COMIDA ___"
+T_amarillo="LA CUENTA"
 
-T_verde="EL SEÑOR DE LOS ANILLOS"
+T_verde="RELIGIOS@S"
 
-T_azul="PRESENTADORES DE TV"
+T_azul="PERROS TRABAJADORES"
 
-T_morado="EMPIEZAN CON RESIDENTES"
+T_morado="GRAN ___"
 
-amarillo=China,Basura,Rápida,Casera
+amarillo=Dolorosa,Innombrable,Susto,Broma
 
-verde=Anillo,Tesoro,Caballos,Torre
+verde=Padre,Madre,Cura,Fraile
 
-azul=Motos,Campos,Alaska,Cruz
+azul=Pastor,Lazarillo,Policía,Terapia
 
-morado=Firma,Eirís,Pirada,Miranda 
+morado=Vía,Canaria,Hermano,Turismo 
 
 
 
