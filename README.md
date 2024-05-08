@@ -2,21 +2,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="LA CUENTA"
+T_amarillo="EN UNA PELUQUERÍA"
 
-T_verde="RELIGIOS@S"
+T_verde="CASAS EN BOB ESPONJA"
 
-T_azul="PERROS TRABAJADORES"
+T_azul="DAR FORMA"
 
-T_morado="GRAN ___"
+T_morado="SE LANZAN EN UNA PELEA"
 
-amarillo=Dolorosa,Innombrable,Susto,Broma
+amarillo=Tijeras,Cepillo,Cera,Espejo
 
-verde=Padre,Madre,Cura,Fraile
+verde=Piedra,Ancla,Piña,Cúpula
 
-azul=Pastor,Lazarillo,Policía,Terapia
+azul=Molde,Patrón,Matriz,Guía 
 
-morado=Vía,Canaria,Hermano,Turismo 
+morado=Granada,Nieve,Comida,Puños
 
 
 
