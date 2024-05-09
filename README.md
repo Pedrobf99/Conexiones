@@ -2,21 +2,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EN UNA PELUQUERÍA"
+T_amarillo="ENTENDIDO EN ALGO"
 
-T_verde="CASAS EN BOB ESPONJA"
+T_verde="AJUSTES MUSICALES"
 
-T_azul="DAR FORMA"
+T_azul="TÉRMINOS DE BALONCESTO"
 
-T_morado="SE LANZAN EN UNA PELEA"
+T_morado="GUERRA ___"
 
-amarillo=Tijeras,Cepillo,Cera,Espejo
+amarillo=Diestro,Experto,Técnico,Perito
 
-verde=Piedra,Ancla,Piña,Cúpula
+verde=Bajo,Volumen,Ganacia,Maestro 
 
-azul=Molde,Patrón,Matriz,Guía 
+azul=Bandeja,Pantalla,Escolta,Tapón 
 
-morado=Granada,Nieve,Comida,Puños
+morado=Nuclear,Mundial,Fría,Santa
 
 
 
