@@ -2,22 +2,21 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ENTENDIDO EN ALGO"
+T_amarillo="POR INTERNET"
 
-T_verde="AJUSTES MUSICALES"
+T_verde="PATATAS DE PAQUETE"
 
-T_azul="TÉRMINOS DE BALONCESTO"
+T_azul="MUSEOS DE ..."
 
-T_morado="GUERRA ___"
+T_morado="SIN ___"
 
-amarillo=Diestro,Experto,Técnico,Perito
+amarillo=Compartido,Seguidor,Compra,Navegar
 
-verde=Bajo,Volumen,Ganancia,Maestro 
+verde=Jamón,Onduladas,Lisas,Camperas 
 
-azul=Bandeja,Pantalla,Escolta,Tapón 
+azul=Cuadros,Ciencia,Historia,Cera 
 
-morado=Nuclear,Mundial,Fría,Santa
-
+morado=Embargo,Techo,Gluten,Cero
 
 
 
