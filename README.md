@@ -12,7 +12,7 @@ T_morado="GUERRA ___"
 
 amarillo=Diestro,Experto,Técnico,Perito
 
-verde=Bajo,Volumen,Ganacia,Maestro 
+verde=Bajo,Volumen,Ganancia,Maestro 
 
 azul=Bandeja,Pantalla,Escolta,Tapón 
 
