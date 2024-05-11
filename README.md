@@ -2,21 +2,20 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="POR INTERNET"
+T_amarillo="EN UNA BANDERA"
 
-T_verde="PATATAS DE PAQUETE"
+T_verde="VERDES"
 
-T_azul="MUSEOS DE ..."
+T_azul="MIL ___"
 
-T_morado="SIN ___"
+T_morado="AL PARTIR UN..."
 
-amarillo=Compartido,Seguidor,Compra,Navegar
+amarillo=Rayas,Cruz,Águila,Corona 
 
-verde=Jamón,Onduladas,Lisas,Camperas 
+verde=Lagarto,Planta,Guardia, Shrek 
 
-azul=Cuadros,Ciencia,Historia,Cera 
+azul=Leguas,Anuncios,Gracias,Viviendas
 
-morado=Embargo,Techo,Gluten,Cero
-
+morado=Beso,Flor,Caricia,Adiós
 
 
