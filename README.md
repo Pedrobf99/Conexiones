@@ -2,19 +2,19 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TIPOS DE COCHE"
+T_amarillo="POR INTERNET"
 
-T_verde="FIESTAS GALLEGAS"
+T_verde="PATATAS DE PAQUETE"
 
-T_azul="GARFIELD"
+T_azul="MUSEOS DE ..."
 
-T_morado="CUADRO ___"
+T_morado="SIN ___"
 
-amarillo=Deportivo,Familiar,Compacto,Urbano
+amarillo=Compartido,Seguidor,Compra,Navegar
 
-verde=Ascensión,Cocido,Queso, Carnaval 
+verde=Jamón,Onduladas,Lisas,Camperas 
 
-azul=Lasaña,Lunes,Rayas,Dormir
+azul=Cuadros,Ciencia,Historia,Cera 
 
-morado=Clínico,Eléctrico,Médico,Sinóptico
+morado=Embargo,Techo,Gluten,Cero
 
