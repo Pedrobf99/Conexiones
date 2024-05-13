@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EN UNA BANDERA"
+T_amarillo="TIPOS DE COCHE"
 
-T_verde="VERDES"
+T_verde="FIESTAS GALLEGAS"
 
-T_azul="MIL ___"
+T_azul="GARFIELD"
 
-T_morado="AL PARTIR UN..."
+T_morado="CUADRO ___"
 
-amarillo=Rayas,Cruz,Águila,Corona 
+amarillo=Deportivo,Familiar,Compacto,Urbano
 
-verde=Lagarto,Planta,Guardia, Shrek 
+verde=Ascensión,Cocido,Queso, Carnaval 
 
-azul=Leguas,Anuncios,Gracias,Viviendas
+azul=Lasaña,Lunes,Rayas,Dormir
 
-morado=Beso,Flor,Caricia,Adiós
+morado=Clínico,Eléctrico,Médico,Sinóptico
