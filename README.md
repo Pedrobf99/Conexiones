@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TIPOS DE COCHE"
+T_amarillo="ENTENDIDO EN ALGO"
 
-T_verde="FIESTAS GALLEGAS"
+T_verde="AJUSTES MUSICALES"
 
-T_azul="GARFIELD"
+T_azul="BALONCESTO"
 
-T_morado="CUADRO ___"
+T_morado="GUERRA ___"
 
-amarillo=Deportivo,Familiar,Compacto,Urbano
+amarillo=Diestro,Experto,Técnico,Perito
 
-verde=Ascensión,Cocido,Queso, Carnaval 
+verde=Bajo,Ganancia,Maestro,Volumen 
 
-azul=Lasaña,Lunes,Rayas,Dormir
+azul=Bandeja,Tapón,Escolta,Pantalla
 
-morado=Clínico,Eléctrico,Médico,Sinóptico
+morado=Nuclear,Mundial,Fría,Santa
