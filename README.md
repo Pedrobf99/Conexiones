@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TIPOS DE COCHE"
+T_amarillo="DE LAS FRUTAS"
 
-T_verde="FIESTAS GALLEGAS"
+T_verde="LIQUIDOS Tª AMBIENTE"
 
-T_azul="GARFIELD"
+T_azul="CUARTO DE ___"
 
-T_morado="CUADRO ___"
+T_morado="OBRAS DE GOYA"
 
-amarillo=Deportivo,Familiar,Compacto,Urbano
+amarillo=Zumo,Mermelada,Vino,Confitura
 
-verde=Ascensión,Cocido,Queso,Carnaval 
+verde=Mercurio,Galio,Agua,Aceite
 
-azul=Lasaña,Lunes,Rayas,Dormir
+azul=Baño,Luna,Estar,Libra 
 
-morado=Clínico,Eléctrico,Médico,Sinóptico
+morado=Maja,Saturno,Fusilamientos,Carlos
