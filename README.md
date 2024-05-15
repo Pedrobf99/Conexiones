@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TONOS DE BLANCO"
+T_amarillo="DE LAS FRUTAS"
 
-T_verde="PALOS DE BARAJAS"
+T_verde="LIQUIDOS Tª AMBIENTE"
 
-T_azul="MÉTODOS DE DEFENSA"
+T_azul="CUARTO DE ___"
 
-T_morado="DOBLE ___"
+T_morado="OBRAS DE GOYA"
 
-amarillo=Marfil,Huevo,Hueso,Ceniza
+amarillo=Zumo,Mermelada,Vino,Confitura
 
-verde=Corazón,Diamante,Espada,Copa
+verde=Mercurio,Galio,Agua,Aceite
 
-azul=Pincho,Veneno,Moco,Concha
+azul=Baño,Luna,Estar,Libra 
 
-morado=Rasero,Amarilla,Sentido,Hélice
+morado=Maja,Saturno,Fusilamientos,Carlos
