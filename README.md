@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TONOS DE BLANCO"
+T_amarillo="EN UN CEMENTERIO"
 
-T_verde="PALOS DE BARAJAS"
+T_verde="PEDAZOS DE CARNE"
 
-T_azul="MÉTODOS DE DEFENSA"
+T_azul="SACO DE ___"
 
-T_morado="DOBLE ___"
+T_morado="PALÍNDROMOS"
 
-amarillo=Marfil,Huevo,Hueso,Ceniza
+amarillo=Lápida,Flor,Corona,Vela
 
-verde=Corazón,Diamante,Espada,Copa
+verde=Medallón,Falda,Tapa,Presa
 
-azul=Pincho,Veneno,Moco,Concha
+azul=Dormir,Patatas,Cemento,Boxeo
 
-morado=Rasero,Amarilla,Sentido,Hélice
+morado=Seres,Rayar,Oro,Ojo
