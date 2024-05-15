@@ -10,7 +10,7 @@ T_azul="MÉTODOS DE DEFENSA"
 
 T_morado="DOBLE ___"
 
-amarillo=HéliceMarfil,Huevo,Hueso,Ceniza
+amarillo=Marfil,Huevo,Hueso,Ceniza
 
 verde=Corazón,Diamante,Espada,Copa
 
