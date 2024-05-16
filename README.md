@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EN UN CEMENTERIO"
+T_amarillo="DE TELEVISIÓN"
 
-T_verde="PEDAZOS DE CARNE"
+T_verde="CON DOBLE SIGNIFICADO"
 
-T_azul="SACO DE ___"
+T_azul="HOMBRES G"
 
-T_morado="PALÍNDROMOS"
+T_morado="PEZ ___"
 
-amarillo=Lápida,Flor,Corona,Vela
+amarillo=Canales,Mando,Antena,Presentador
 
-verde=Medallón,Falda,Tapa,Presa
+verde=Toro,Cerdo,Gallina,Zorro
 
-azul=Dormir,Patatas,Cemento,Boxeo
+azul=Marcapasos,Cocodrilo,Venecia,Chica
 
-morado=Seres,Rayar,Oro,Ojo
+morado=Luna,Payaso,Gato,Globo
