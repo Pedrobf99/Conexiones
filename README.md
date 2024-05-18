@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DE TELEVISIÓN"
+T_amarillo="TIPOS DE BICIS"
 
-T_verde="CON DOBLE SIGNIFICADO"
+T_verde="SINÓNIMO DE BALA"
 
-T_azul="HOMBRES G"
+T_azul="EN UN TALLER"
 
-T_morado="PEZ ___"
+T_morado="AGUA ___"
 
-amarillo=Canales,Mando,Antena,Presentador
+amarillo=Estática,Montaña,Urbana,Plegable
 
-verde=Toro,Cerdo,Gallina,Zorro
+verde=Plomo,Proyectil,Cartucho,Perdigón
 
-azul=Marcapasos,Cocodrilo,Venecia,Chica
+azul=Gato,Llave, Multímetro,Bomba
 
-morado=Luna,Payaso,Gato,Globo
+morado=Nieve,Pesada,Corriente,Mineral
