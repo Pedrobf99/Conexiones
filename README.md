@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="SEÑALES DE TRÁFICO"
+T_amarillo="PROHIBIDO___"
 
-T_verde="GIMNASIA ARTÍSTICA"
+T_verde="ESTACIONES"
 
-T_azul="PERIÓDICOS"
+T_azul="CARACTERÍSTICO SE SUPERHEROES"
 
-T_morado="PEDIR ___"
+T_morado="ACTOR/ACTRIZ ESPAÑOL"
 
-amarillo=Zebra,Ceda,Luces,Lugar
+amarillo=Fumar,Correr,Zambullirse,Pasar
 
-verde=Anillas,Caballo,Suelo,Potro
+verde=Verano,Invierno,Celo,tren
 
-azul=Pais,Mundo,As,Economista
+azul=rayo,araña,martillo,pantera
 
-morado=Dinero,Cita,Permiso,Número
+morado=León,Banderas,Cruz,Casas
