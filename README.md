@@ -12,8 +12,8 @@ T_morado="ACTOR/ACTRIZ ESPAÑOL"
 
 amarillo=Fumar,Correr,Zambullirse,Pasar
 
-verde=Verano,Invierno,Celo,tren
+verde=Verano,Invierno,Celo,Tren
 
-azul=rayo,araña,martillo,pantera
+azul=Rayo,Araña,martillo,Pantera
 
 morado=León,Banderas,Cruz,Casas
