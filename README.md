@@ -14,6 +14,6 @@ amarillo=Fumar,Correr,Zambullirse,Pasar
 
 verde=Verano,Invierno,Celo,Tren
 
-azul=Rayo,Araña,martillo,Pantera
+azul=Rayo,Araña,Martillo,Pantera
 
 morado=León,Banderas,Cruz,Casas
