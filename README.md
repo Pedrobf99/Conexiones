@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="PROHIBIDO___"
+T_amarillo="PARA ESCRIBIR"
 
-T_verde="ESTACIONES"
+T_verde="DE LA MONTAÑA"
 
-T_azul="CARACTERÍSTICO DE SUPERHEROES"
+T_azul="EN EL ESPACIO"
 
-T_morado="ACTOR/ACTRIZ ESPAÑOL"
+T_morado="ESTOPA"
 
-amarillo=Fumar,Correr,Zambullirse,Pasar
+amarillo=Pluma,Cera,Carbón,Teclado 
 
-verde=Verano,Invierno,Celo,Tren
+verde=Pico,Falda,Corona,Cresta 
 
-azul=Rayo,Araña,Martillo,Pantera
+azul=Anillos,Polvo,Agujero,Cometa  
 
-morado=León,Banderas,Cruz,Casas
+morado=Vino,Raja,Pastillas,Paseo
