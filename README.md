@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="PARA ESCRIBIR"
+T_amarillo="3 CERDITOS"
 
-T_verde="DE LA MONTAÑA"
+T_verde="CAPERUCITA ROJA"
 
-T_azul="EN EL ESPACIO"
+T_azul="FLAUTISTA DE HAMELÍN"
 
-T_morado="ESTOPA"
+T_morado="SCOOBY DOO"
 
-amarillo=Pluma,Cera,Carbón,Teclado 
+amarillo=Paja,Ladrillo,Madera,Aire
 
-verde=Pico,Falda,Corona,Cresta 
+verde=Lobo,Abuela,Cazador,Niña
 
-azul=Anillos,Polvo,Agujero,Cometa  
+azul=Flauta,Ratones,Niños,Oro
 
-morado=Vino,Raja,Pastillas,Paseo
+morado=Perro,Furgoneta,Misterio,Máscaras
