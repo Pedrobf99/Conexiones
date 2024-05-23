@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="CON SALERO"
+T_amarillo="SEÑALES DE TRÁFICO"
 
-T_verde="ANTIDISTURBIOS"
+T_verde="GIMNASIA ARTÍSTICA"
 
-T_azul="BROMAS HALLOWEEN USA"
+T_azul="PERIÓDICOS"
 
-T_morado="EN IKEA"
+T_morado="PEDIR ___"
 
-amarillo=Sal,Gracia,Humor,Chispa
+amarillo=Zebra,Ceda,Luces,Lugar
 
-verde=Pimienta,Goma,Porra,Agua
+verde=Anillas,Caballo,Suelo,Potro
 
-azul=Huevos,Papel,Timbre,Calabazas
+azul=Pais,Mundo,As,Economista
 
-morado=Perrito,Albóndigas,Muebles,Laberinto
+morado=Dinero,Cita,Permiso,Número
