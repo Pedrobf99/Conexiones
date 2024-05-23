@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="3 CERDITOS"
+T_amarillo="DE TELEVISIÓN"
 
-T_verde="CAPERUCITA ROJA"
+T_verde="CON DOBLE SIGNIFICADO"
 
-T_azul="FLAUTISTA DE HAMELÍN"
+T_azul="HOMBRES G"
 
-T_morado="SCOOBY DOO"
+T_morado="PEZ ___"
 
-amarillo=Paja,Ladrillo,Madera,Aire
+amarillo=Canales,Mando,Antena,Presentador
 
-verde=Lobo,Abuela,Cazador,Niña
+verde=Toro,Cerdo,Gallina,Zorro
 
-azul=Flauta,Ratones,Niños,Oro
+azul=Marcapasos,Cocodrilo,Venecia,Chica
 
-morado=Perro,Furgoneta,Misterio,Máscaras
+morado=Luna,Payaso,Gato,Globo
