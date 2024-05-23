@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="3 CERDITOS"
+T_amarillo="JUEGOS DE CARTAS"
 
-T_verde="CAPERUCITA ROJA"
+T_verde="MARES"
 
-T_azul="FLAUTISTA DE HAMELÍN"
+T_azul="MEDIA ___"
 
-T_morado="SCOOBY DOO"
+T_morado="VAN AL FINAL"
 
-amarillo=Paja,Ladrillo,Madera,Aire
+amarillo=Continental,Cuadrado,Burro,Culo
 
-verde=Lobo,Abuela,Cazador,Niña
+verde=Muerto,Negro,Mediterráneo,Rojo
 
-azul=Flauta,Ratones,Niños,Oro
+azul=Naranja,Distancia,Jornada,Maratón
 
-morado=Perro,Furgoneta,Misterio,Máscaras
+morado=Sótano,Postre,Rabo,Contraportada
