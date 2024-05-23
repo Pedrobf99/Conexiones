@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="SEÑALES DE TRÁFICO"
+T_amarillo="3 CERDITOS"
 
-T_verde="GIMNASIA ARTÍSTICA"
+T_verde="CAPERUCITA ROJA"
 
-T_azul="PERIÓDICOS"
+T_azul="FLAUTISTA DE HAMELÍN"
 
-T_morado="PEDIR ___"
+T_morado="SCOOBY DOO"
 
-amarillo=Zebra,Ceda,Luces,Lugar
+amarillo=Paja,Ladrillo,Madera,Aire
 
-verde=Anillas,Caballo,Suelo,Potro
+verde=Lobo,Abuela,Cazador,Niña
 
-azul=Pais,Mundo,As,Economista
+azul=Flauta,Ratones,Niños,Oro
 
-morado=Dinero,Cita,Permiso,Número
+morado=Perro,Furgoneta,Misterio,Máscaras
