@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="TIPOS DE BICIS"
+T_amarillo="CON SALERO"
 
-T_verde="SINÓNIMO DE BALA"
+T_verde="ANTIDISTURBIOS"
 
-T_azul="EN UN TALLER"
+T_azul="BROMAS HALLOWEEN USA"
 
-T_morado="AGUA ___"
+T_morado="EN IKEA"
 
-amarillo=Estática,Montaña,Urbana,Plegable
+amarillo=Sal,Gracia,Humor,Chispa
 
-verde=Plomo,Proyectil,Cartucho,Perdigón
+verde=Pimienta,Goma,Porra,Agua
 
-azul=Gato,Llave, Multímetro,Bomba
+azul=Huevos,Papel,Timbre,Calabazas
 
-morado=Nieve,Pesada,Corriente,Mineral
+morado=Perrito,Albóndigas,Muebles,Laberinto
