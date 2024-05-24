@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EMERGENCIAS"
+T_amarillo="JUEGOS DE CARTAS"
 
-T_verde="CUADRADOS PERFECTOS"
+T_verde="MARES"
 
-T_azul="FIBONACCI"
+T_azul="MEDIA ___"
 
-T_morado="INICIO IRRACIONALES x10"
+T_morado="VAN AL FINAL"
 
-amarillo=112,911,61,91
+amarillo=Continental,Cuadrado,Burro,Culo
 
-verde=25,49,144,441
+verde=Muerto,Negro,Mediterráneo,Rojo
 
-azul=5,8,13,21
+azul=Naranja,Distancia,Jornada,Maratón
 
-morado=314,278,161,141
+morado=Sótano,Postre,Rabo,Contraportada
