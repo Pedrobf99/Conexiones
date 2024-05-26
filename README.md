@@ -6,7 +6,7 @@ T_amarillo="DEDOS DE LA MANO"
 
 T_verde="POPULAR"
 
-T_azul="PARA VER UNA PELI"
+T_azul="VERSIONES DE UNA PELI"
 
 T_morado="INICIO DE ANIMALES"
 
