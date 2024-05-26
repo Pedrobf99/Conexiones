@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="NARNIA"
+T_amarillo="DEDOS DE LA MANO"
 
-T_verde="AGUA DE ___"
+T_verde="POPULAR"
 
-T_azul="TEMPORADA DE ___"
+T_azul="PARA VER UNA PELI"
 
-T_morado="CALLES DE CORUÑA"
+T_morado="INICIO DE ANIMALES"
 
-amarillo=León,Bruja,Armario,Invierno
+amarillo=Anular,Gordo,Índice,Medio
 
-verde=Valencia,Rosas,Coco,Mar
+verde=Portada,Tendencia,Viral,Noticia
 
-azul=Baño,Caza,Pesca,Quemas
+azul=Subtítulo,Doblado,Original,Extendida
 
-morado=Barcelona,Real,Juan,Barrera
+morado=Cancelar,Vacante,Lobotomía,Monótono
