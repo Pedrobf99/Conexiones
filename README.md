@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="NARNIA"
+T_amarillo="EMERGENCIAS"
 
-T_verde="AGUA DE ___"
+T_verde="CUADRADOS PERFECTOS"
 
-T_azul="TEMPORADA DE ___"
+T_azul="FIBONACCI"
 
-T_morado="CALLES DE CORUÑA"
+T_morado="INICIO IRRACIONALES x10"
 
-amarillo=León,Bruja,Armario,Invierno
+amarillo=112,911,61,91
 
-verde=Valencia,Rosas,Coco,Mar
+verde=25,49,144,441
 
-azul=Baño,Caza,Pesca,Quemas
+azul=5,8,13,21
 
-morado=Barcelona,Real,Juan,Barrera
+morado=314,278,161,141
