@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EMERGENCIAS"
+T_amarillo="DEDOS DE LA MANO"
 
-T_verde="CUADRADOS PERFECTOS"
+T_verde="POPULAR"
 
-T_azul="FIBONACCI"
+T_azul="VERSIONES DE UNA PELI"
 
-T_morado="INICIO IRRACIONALES x10"
+T_morado="INICIO DE ANIMALES"
 
-amarillo=112,911,61,91
+amarillo=Anular,Gordo,Índice,Medio
 
-verde=25,49,144,441
+verde=Portada,Tendencia,Viral,Noticia
 
-azul=5,8,13,21
+azul=Subtítulo,Doblado,Original,Extendida
 
-morado=314,278,161,141
+morado=Cancelar,Vacante,Lobotomía,Monótono
