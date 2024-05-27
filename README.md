@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DEDOS DE LA MANO"
+T_amarillo="AMARILLOS"
 
-T_verde="POPULAR"
+T_verde="TIPOS DE CAMISETA"
 
-T_azul="VERSIONES DE UNA PELI"
+T_azul="LA OREJA DE VAN GOGH"
 
-T_morado="INICIO DE ANIMALES"
+T_morado="___ NEGRA"
 
-amarillo=Anular,Gordo,Índice,Medio
+amarillo=Sol,Limón,Homer,Queso
 
-verde=Portada,Tendencia,Viral,Noticia
+verde=Lisa,Básica,Deporte,Polo
 
-azul=Subtítulo,Doblado,Original,Extendida
+azul=Jueves,Playa,Rosas,Conmigo
 
-morado=Cancelar,Vacante,Lobotomía,Monótono
+morado=Peste,Mano,Perla,Caja
