@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="AMARILLOS"
+T_amarillo="SEÑALAN"
 
-T_verde="TIPOS DE CAMISETA"
+T_verde="EN EL MONOPOLY"
 
-T_azul="LA OREJA DE VAN GOGH"
+T_azul="PARTES DE UN PUENTE"
 
-T_morado="___ NEGRA"
+T_morado="___ MECÁNICA"
 
-amarillo=Sol,Limón,Homer,Queso
+amarillo=Flecha,Intermitente,Puntero,Marcador
 
-verde=Lisa,Básica,Deporte,Polo
+verde=Comunidad,Estación,Calles,Cárcel
 
-azul=Jueves,Playa,Rosas,Conmigo
+azul=Tablero,Viga,Arco,Cable
 
-morado=Peste,Mano,Perla,Caja
+morado=Escalera,Naranja,Energía,Bicicleta
