@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="SEÑALAN"
+T_amarillo="DINERO"
 
-T_verde="EN EL MONOPOLY"
+T_verde="LEY DE ___"
 
-T_azul="PARTES DE UN PUENTE"
+T_azul="FUERZA ___"
 
-T_morado="___ MECÁNICA"
+T_morado="MANÁ"
 
-amarillo=Flecha,Intermitente,Puntero,Marcador
+amarillo=Pasta,Cuartos,Duro,Pavo
 
-verde=Comunidad,Estación,Calles,Cárcel
+verde=Amnistía,Costas,Newton,Vida
 
-azul=Tablero,Viga,Arco,Cable
+azul=Mayor,Vital,Motriz,Bruta
 
-morado=Escalera,Naranja,Energía,Bicicleta
+morado=Labios,Muelle,Rayando,Bar
