@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DINERO"
+T_amarillo="___ FRANCESA"
 
-T_verde="LEY DE ___"
+T_verde="POSIBLES MULTAS"
 
-T_azul="FUERZA ___"
+T_azul="PARA ENCENDER UN FUEGO"
 
-T_morado="MANÁ"
+T_morado="DISFRAZ DE FITO"
 
-amarillo=Pasta,Cuartos,Duro,Pavo
+amarillo=Revolución,Tortilla,Baraja,Cocina 
 
-verde=Amnistía,Costas,Newton,Vida
+verde=Colilla,Corriendo,Aparcado,Sustancias
 
-azul=Mayor,Vital,Motriz,Bruta
+azul=Cerilla,Piedras,Pastillas,Arco
 
-morado=Labios,Muelle,Rayando,Bar
+morado=Patillas,Boina,Guitarra,Calva
