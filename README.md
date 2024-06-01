@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="___ FRANCESA"
+T_amarillo="PUERTO ___"
 
-T_verde="POSIBLES MULTAS"
+T_verde="SELECCIONADORES ESPAÑOLES"
 
-T_azul="PARA ENCENDER UN FUEGO"
+T_azul="ESPAGUETIS"
 
-T_morado="DISFRAZ DE FITO"
+T_morado="PICO DE ___"
 
-amarillo=Revolución,Tortilla,Baraja,Cocina 
+amarillo=Mar,Pesquero,USB,Rico
 
-verde=Colilla,Corriendo,Aparcado,Sustancias
+verde=Fuente,Bosque,Enrique,Hierro
 
-azul=Cerilla,Piedras,Pastillas,Arco
+azul=Pica,Boloñesa,Negros,Verdes
 
-morado=Patillas,Boina,Guitarra,Calva
+morado=Natalidad,Gallo,Montaña,Gráfica
