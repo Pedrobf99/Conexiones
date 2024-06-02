@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="PUERTO ___"
+T_amarillo="GUAPO"
 
-T_verde="SELECCIONADORES ESPAÑOLES"
+T_verde="ANIMALES RÁPIDOS"
 
-T_azul="ESPAGUETIS"
+T_azul="CANCIONES MARISOL"
 
-T_morado="PICO DE ___"
+T_morado="EN OPORTO"
 
-amarillo=Mar,Pesquero,USB,Rico
+amarillo=Mono,Cuco,Bonito,Lindo
 
-verde=Fuente,Bosque,Enrique,Hierro
+verde=Marlin,Guepardo,Halcón,Avestruz
 
-azul=Pica,Boloñesa,Negros,Verdes
+azul=Contigo,Tómbola,Pompero,Estrella
 
-morado=Natalidad,Gallo,Montaña,Gráfica
+morado=Gallo,Bacalao, Puente,Tranvía
