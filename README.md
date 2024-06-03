@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="GUAPO"
+T_amarillo="LÍMITES DE UNA FINCA"
 
-T_verde="ANIMALES RÁPIDOS"
+T_verde="LUGARES DE SHREK"
 
-T_azul="CANCIONES MARISOL"
+T_azul="TIPOS DE CARRERAS"
 
-T_morado="EN OPORTO"
+T_morado="INICIO GÉNERO DE MÚSICA"
 
-amarillo=Mono,Cuco,Bonito,Lindo
+amarillo=Cerca,Muro,Barrera,Seto
 
-verde=Marlin,Guepardo,Halcón,Avestruz
+verde=Lejano,Ciénaga,Torre,Castillo
 
-azul=Contigo,Tómbola,Pompero,Estrella
+azul=Obstáculo,Saco,Caballo,Derecho
 
-morado=Gallo,Bacalao, Puente,Tranvía
+morado=Metalico,Rapado,Popular,Discoteca
