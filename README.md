@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="BUENA SUERTE"
+T_amarillo="LÍMITES DE UNA FINCA"
 
-T_verde="ESCOCIA"
+T_verde="LUGARES DE SHREK"
 
-T_azul="YO ..."
+T_azul="TIPOS DE CARRERAS"
 
-T_morado="___ VIVA"
+T_morado="INICIO GÉNERO DE MÚSICA"
 
-amarillo=Trébol,Conejo,Siete,Herradura
+amarillo=Cerca,Muro,Barrera,Seto
 
-verde=Lago,Falda,Gaita,Castillo
+verde=Lejano,Ciénaga,Torre,Castillo
 
-azul=Río,Canto,Cojo,Tomo
+azul=Obstáculo,Saco,Caballo,Derecho
 
-morado=Marea,Carne,Lengua,Que
+morado=Metalico,Rapado,Popular,Discoteca
