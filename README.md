@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ELEMENTOS QUÍMICOS"
+T_amarillo="FINALIZADO"
 
-T_verde="FORMAS COMUNICACIÓN"
+T_verde="TIPOS DE DISCOS"
 
-T_azul="SELECCIÓN ESPAÑOLA 2010"
+T_azul="TIEMPO ___"
 
-T_morado="MORADO"
+T_morado="CADENA DE ___"
 
-amarillo=Indio,Cromo,Radio,Oro
+amarillo=Acabado,Completo,Remate, Conclusión 
 
-verde=Carta,Mensaje,Señal,Gestos
+verde=Sencillo,Colaboración,Directo,Doble
 
-azul=Ramos,Torres,Mata,Reina
+azul=Geológico,Atmosférico,Compuesto,Muerto
 
-morado=Lavanda,Uva,Ametista,Mujer
+morado=Favores,Distribución,Oro,ADN
