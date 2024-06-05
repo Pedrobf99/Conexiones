@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="BUENA SUERTE"
+T_amarillo="ELEMENTOS QUÍMICOS"
 
-T_verde="ESCOCIA"
+T_verde="FORMAS COMUNICACIÓN"
 
-T_azul="YO ..."
+T_azul="SELECCIÓN ESPAÑOLA 2010"
 
-T_morado="___ VIVA"
+T_morado="MORADO"
 
-amarillo=Trébol,Conejo,Siete,Herradura
+amarillo=Indio,Cromo,Radio,Oro
 
-verde=Lago,Falda,Gaita,Castillo
+verde=Carta,Mensaje,Señal,Gestos
 
-azul=Río,Canto,Cojo,Tomo
+azul=Ramos,Torres,Mata,Reina
 
-morado=Marea,Carne,Lengua,Que
+morado=Lavanda,Uva,Ametista,Mujer
