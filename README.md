@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="FINALIZADO"
+T_amarillo="FINALIDAD"
 
-T_verde="TIPOS DE DISCOS"
+T_verde="CONTESTAR"
 
-T_azul="TIEMPO ___"
+T_azul="TERMINOLOGÍA DE FÚTBOL"
 
-T_morado="CADENA DE ___"
+T_morado="ME DA ___"
 
-amarillo=Acabado,Completo,Remate, Conclusión 
+amarillo=Objeto,Fin,Intención,Razón
 
-verde=Sencillo,Colaboración,Directo,Doble
+verde=Salida,Respuesta,Réplica,Objeta
 
-azul=Geológico,Atmosférico,Compuesto,Muerto
+azul=Meta,Falta,Fuera,Entrada
 
-morado=Favores,Distribución,Oro,ADN
+morado=Cosa,Palo,Vergüenza,Coraje
