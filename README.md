@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="FINALIDAD"
+T_amarillo=PINGÜINOS DE MADAGASCAR 
 
-T_verde="CONTESTAR"
+T_verde= AVES
 
-T_azul="TERMINOLOGÍA DE FÚTBOL"
+T_azul=PECES
 
-T_morado="ME DA ___"
+T_morado=PROFESIONES
 
-amarillo=Objeto,Fin,Intención,Razón
+amarillo=Rico,Jirafa,León,Cebra 
 
-verde=Salida,Respuesta,Réplica,Objeta
+verde= Lavandera,Carbonero, Pardillo,Chorlito 
 
-azul=Meta,Falta,Fuera,Entrada
+azul= Tigre, Dragón,Sapo, Martillo 
 
-morado=Cosa,Palo,Vergüenza,Coraje
+morado= Payaso,Carpintero, Piloto,Cirujano
