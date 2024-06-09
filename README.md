@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="PINGÜINOS DE MADAGASCAR"
+T_amarillo="NUEVA JERSEY"
 
-T_verde="AVES"
+T_verde="GANADORES DE UN OSCAR"
 
-T_azul="PECES"
+T_azul="PERSONAJE SERIE TELEVISIÓN"
 
-T_morado="PROFESIONES"
+T_morado="DIBUJOS ANIMADOS"
 
-amarillo=Rico,Jirafa,León,Cebra 
+amarillo=van Zant,Streep,Bon Jovi, Travolta 
 
-verde=Lavandera,Carbonero,Pardillo,Chorlito 
+verde=Murphy,Hanks, Springsteen,Bullock
 
-azul=Tigre,Dragón,Sapo,Martillo 
+azul=Soprano,Magnum,Fletcher,Castle
 
-morado=Payaso,Carpintero,Piloto,Cirujano
+morado=Flynn,Kowalski,Possible,Spinelli
