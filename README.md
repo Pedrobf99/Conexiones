@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="NUEVA JERSEY"
+T_amarillo="SEGURIDAD"
 
-T_verde="GANADORES DE UN OSCAR"
+T_verde="SANIDAD"
 
-T_azul="PERSONAJE SERIE TELEVISIÓN"
+T_azul="GUEPARDO"
 
-T_morado="DIBUJOS ANIMADOS"
+T_morado="TRIFELIOS"
 
-amarillo=van Zant,Streep,Bon Jovi, Travolta 
+amarillo=Civil,Privada,Vial,Social
 
-verde=Murphy,Hanks, Springsteen,Bullock
+verde=Médico,Ministerio,Urgencias,Espera 
 
-azul=Soprano,Magnum,Fletcher,Castle
+azul=Manchas,Rápido,Cazador,Felino
 
-morado=Flynn,Kowalski,Possible,Spinelli
+morado=Rape,Jamón,Paco,Labio
