@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="SEGURIDAD"
+T_amarillo="ORIGEN ÁRABE"
 
-T_verde="SANIDAD"
+T_verde="TIPOS DE PUNTOS"
 
-T_azul="GUEPARDO"
+T_azul="FOLCLÓRICAS"
 
-T_morado="TRIFELIOS"
+T_morado="ALFABETO AERONÁUTICO INTERNACIONAL"
 
-amarillo=Civil,Privada,Vial,Social
+amarillo=Andalucía,Aceituna,Cero,Café
 
-verde=Médico,Ministerio,Urgencias,Espera 
+verde=Sutura,Alto,Doble,Partida
 
-azul=Manchas,Rápido,Cazador,Felino
+azul=Jurado,Sevilla,Flores,Argentina
 
-morado=Rape,Jamón,Paco,Labio
+morado=Sierra,Lima,India,Golf
