@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="ORIGEN ÁRABE"
+T_amarillo="MAREA"
 
-T_verde="TIPOS DE PUNTOS"
+T_verde=" OSO "
 
-T_azul="FOLCLÓRICAS"
+T_azul=" BALLENA"
 
-T_morado="ALFABETO AERONÁUTICO INTERNACIONAL"
+T_morado="5 VOCALES"
 
-amarillo=Andalucía,Aceituna,Cero,Café
+amarillo=viva,muerta,roja,negra
 
-verde=Sutura,Alto,Doble,Partida
+verde=pardo,polar,negro,panda
 
-azul=Jurado,Sevilla,Flores,Argentina
+azul=franca,azul,jorobada,blanca
 
-morado=Sierra,Lima,India,Golf
+morado=murciélago,riachuelo, orquídea, neumonía
