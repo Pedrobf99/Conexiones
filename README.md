@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="NOMBRES DE MUJER"
+T_amarillo="EN UN LIBRO"
 
-T_verde="RIMA TONTA"
+T_verde="ZONAS DE SANTIAGO"
 
-T_azul="LA HORA DE..."
+T_azul="LO HACES EN EL TUTE"
 
-T_morado="LIBRE COMO EL..."
+T_morado="___ DE ORO"
 
-amarillo=Paloma,Rosa,Blanca,Aurora
+amarillo=Tapa,Lomo,Página,Marcador
 
-verde=Laboratorio,Gaviota,Cinco,Abogado
+verde=Cancelas,Roja,Gozo,Clínico
 
-azul=Aventuras,Vermú,Herramienta,Tortas
+azul=Triunfo,Renuncia,Coge,Canta
 
-morado=Sol,Mar,Ave,Viento
+morado=Medalla,Gol,Siglo,Huevos
