@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="MAREA"
+T_amarillo="NOMBRES DE MUJER"
 
-T_verde=" OSO "
+T_verde="RIMA TONTA"
 
-T_azul=" BALLENA"
+T_azul="LA HORA DE..."
 
-T_morado="5 VOCALES"
+T_morado="LIBRE COMO EL..."
 
-amarillo=viva,muerta,roja,negra
+amarillo=Paloma,Rosa,Blanca,Aurora
 
-verde=pardo,polar,negro,panda
+verde=Laboratorio,Gaviota,Cinco,Abogado
 
-azul=franca,azul,jorobada,blanca
+azul=Aventuras,Vermú,Herramienta,Tortas
 
-morado=murciélago,riachuelo, orquídea, neumonía
+morado=Sol,Mar,Ave,Viento
