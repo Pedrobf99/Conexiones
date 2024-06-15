@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EN UN LIBRO"
+T_amarillo="DISFRAZ DE POPEYE"
 
-T_verde="ZONAS DE SANTIAGO"
+T_verde="INDIANA JONES Y..."
 
-T_azul="LO HACES EN EL TUTE"
+T_azul="TARTA DE ___"
 
-T_morado="___ DE ORO"
+T_morado="NOMBRES FEMENINOS ACORTADOS"
 
-amarillo=Tapa,Lomo,Página,Marcador
+amarillo=Espinacas,Ancla,Boina,Pipa
 
-verde=Cancelas,Roja,Gozo,Clínico
+verde=Arca,Calavera,Templo,Cruzada
 
-azul=Triunfo,Renuncia,Coge,Canta
+azul=Zanahoria,Queso,Whisky,Santiago
 
-morado=Medalla,Gol,Siglo,Huevos
+morado=Noe,Concha,Sabe,Ale
