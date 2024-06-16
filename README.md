@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="DISFRAZ DE POPEYE"
+T_amarillo="POSTRES ITALIANOS "
 
-T_verde="INDIANA JONES Y..."
+T_verde="PIZZAS ITALIANAS "
 
-T_azul="TARTA DE ___"
+T_azul="QUESOS ITALIANOS  "
 
-T_morado="NOMBRES FEMENINOS ACORTADOS"
+T_morado=" SALSAS ITALIANAS"
 
-amarillo=Espinacas,Ancla,Boina,Pipa
+amarillo=Cannoli,Gelato,Tiramisu, Panettone 
 
-verde=Arca,Calavera,Templo,Cruzada
+verde=Napolitana,Margherita,Marinara,Capricciosa
 
-azul=Zanahoria,Queso,Whisky,Santiago
+azul=Gorgonzola,Pecorino,Provolole,Burrata
 
-morado=Noe,Concha,Sabe,Ale
+morado=Carbonara,Puttanesca,Gremolata,Arrabiata
