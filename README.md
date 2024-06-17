@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="POSTRES ITALIANOS "
+T_amarillo="CON BIGOTE"
 
-T_verde="PIZZAS ITALIANAS "
+T_verde="DESDE ANTES DE CRISTO"
 
-T_azul="QUESOS ITALIANOS  "
+T_azul="LOS JUEGOS DEL HAMBRE"
 
-T_morado=" SALSAS ITALIANAS"
+T_morado="COMIENZAN EN GRIEGO"
 
-amarillo=Cannoli,Gelato,Tiramisu, Panettone 
+amarillo=Gamba,Einstein,Pedro,Flanders
 
-verde=Napolitana,Margherita,Marinara,Capricciosa
+verde=Homero,Peine, Jeroglíficos,Fuego
 
-azul=Gorgonzola,Pecorino,Provolole,Burrata
+azul=Llamas,Pájaro,Trenza,Arco
 
-morado=Carbonara,Puttanesca,Gremolata,Arrabiata
+morado=Roma,Alfalfa,Taurino, Psicología
