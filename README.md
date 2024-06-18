@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="CON BIGOTE"
+T_amarillo="RAZAS DE VACAS ESPAÑOLAS "
 
-T_verde="DESDE ANTES DE CRISTO"
+T_verde="COLES"
 
-T_azul="LOS JUEGOS DEL HAMBRE"
+T_azul="CABO"
 
-T_morado="COMIENZAN EN GRIEGO"
+T_morado="CERDOS"
 
-amarillo=Gamba,Einstein,Pedro,Flanders
+amarillo=Cachena,Pasiega,Andaluza,Retinta
 
-verde=Homero,Peine, Jeroglíficos,Fuego
+verde=China,Bruselas,Lombarda,Kale 
 
-azul=Llamas,Pájaro,Trenza,Arco
+azul=Cuerda,Militar,Lugar,Extremo 
 
-morado=Roma,Alfalfa,Taurino, Psicología
+morado=Hampshire,Ibérico,Celta,Duroc
