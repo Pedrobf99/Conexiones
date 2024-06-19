@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="RAZAS DE VACAS ESPAÑOLAS "
+T_amarillo="EMBROLLO"
 
-T_verde="COLES"
+T_verde="GOLPE"
 
-T_azul="CABO"
+T_azul="PERSONAJES BÍBLICOS"
 
-T_morado="CERDOS"
+T_morado="HOMEOMORFISMOS"
 
-amarillo=Cachena,Pasiega,Andaluza,Retinta
+amarillo=Bollo,Lío,Caos,Jaleo
 
-verde=China,Bruselas,Lombarda,Kale 
+verde=Galleta,Gancho,Leche,Puño
 
-azul=Cuerda,Militar,Lugar,Extremo 
+azul=Magdalena, Serpiente,Bautista,Pescadores
 
-morado=Hampshire,Ibérico,Celta,Duroc
+morado=Donut,Taza,Anillo,Tubería
