@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="EMBROLLO"
+T_amarillo="WINNIE  THE POO"
 
-T_verde="GOLPE"
+T_verde="SIN PLAYA  "
 
-T_azul="PERSONAJES BÍBLICOS"
+T_azul="ESCARABAJOS  "
 
-T_morado="HOMEOMORFISMOS"
+T_morado=" SEAT"
 
-amarillo=Bollo,Lío,Caos,Jaleo
+amarillo=Tigre,Oso,Burro,Cerdo 
 
-verde=Galleta,Gancho,Leche,Puño
+verde=León,Sevilla,Córdoba,Toledo 
 
-azul=Magdalena, Serpiente,Bautista,Pescadores
+azul=Rinoceronte,Pelotero,Mariquita,Sagrado
 
-morado=Donut,Taza,Anillo,Tubería
+morado=Ibiza,Marbella,Málaga,Arosa
