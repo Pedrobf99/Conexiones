@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="WINNIE  THE POO"
+T_amarillo="STICH"
 
-T_verde="SIN PLAYA  "
+T_verde="HUÉRFANOS DE MADRE"
 
-T_azul="ESCARABAJOS  "
+T_azul="VELAS "
 
-T_morado=" SEAT"
+T_morado="MANZANAS"
 
-amarillo=Tigre,Oso,Burro,Cerdo 
+amarillo=Lilo,Nani,Jumba,Gantu
 
-verde=León,Sevilla,Córdoba,Toledo 
+verde=Nemo,Ariel,Bella,Bambi
 
-azul=Rinoceronte,Pelotero,Mariquita,Sagrado
+azul=Génova,Mayor,Trinquete,Foque
 
-morado=Ibiza,Marbella,Málaga,Arosa
+morado=Golden,Fuji,Starking, Reineta
