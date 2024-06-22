@@ -2,18 +2,18 @@
 # Conexiones
 Juego conexiones
 
-T_amarillo="STICH"
+T_amarillo="CUESTION DE SUERTE"
 
-T_verde="HUÉRFANOS DE MADRE"
+T_verde="TINTIN"
 
-T_azul="VELAS "
+T_azul="PERDER EL/LA ___"
 
-T_morado="MANZANAS"
+T_morado="INICIO DE DIOSES"
 
-amarillo=Lilo,Nani,Jumba,Gantu
+amarillo=Dados,Piedra,Cruz,Cartas
 
-verde=Nemo,Ariel,Bella,Bambi
+verde=Capitán,Perro,Hernández,Periodista
 
-azul=Génova,Mayor,Trinquete,Foque
+azul=Paciencia,Tiempo,Sentido,Credibilidad
 
-morado=Golden,Fuji,Starking, Reineta
+morado=Tormenta,Ratón,Bacon,Erosionar
