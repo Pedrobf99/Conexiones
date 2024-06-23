@@ -1,4 +1,4 @@
-T_ama harillo="LUNA"
+T_amarillo="LUNA"
 
 T_verde="HERENCIA"
 
