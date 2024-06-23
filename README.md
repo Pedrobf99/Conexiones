@@ -1,3 +1,6 @@
+algo
+algo
+
 T_amarillo="LUNA"
 
 T_verde="HERENCIA"
