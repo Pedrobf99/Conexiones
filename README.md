@@ -1,19 +1,15 @@
+T_amarillo="LUNA"
 
-# Conexiones
-Juego conexiones
+T_verde="HERENCIA"
 
-T_amarillo="CUESTION DE SUERTE"
+T_azul="COSAS DURAS"
 
-T_verde="TINTIN"
+T_morado="ELEMENTO"
 
-T_azul="PERDER EL/LA ___"
+amarillo=Creciente,Satélite,Lovegood,Sangre
 
-T_morado="INICIO DE DIOSES"
+verde=Calvicie,Fortuna,Legítima,Legado
 
-amarillo=Dados,Piedra,Cruz,Cartas
+azul=Diamante,Cara,Tapa,Vida
 
-verde=Capitán,Perro,Hernández,Periodista
-
-azul=Paciencia,Tiempo,Sentido,Credibilidad
-
-morado=Tormenta,Ratón,Bacon,Erosionar
+morado=Oro,Aire,Si,He
