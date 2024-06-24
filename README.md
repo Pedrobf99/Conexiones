@@ -1,18 +1,18 @@
-algo
-algo
+Juego Conexiones
+# Algo algo #
 
-T_amarillo="LUNA"
+T_amarillo="ANGLICISMOS DE ROPA"
 
-T_verde="HERENCIA"
+T_verde="DORA LA EXPLORADORA"
 
-T_azul="COSAS DURAS"
+T_azul="EL CANTO DEL LOCO"
 
-T_morado="ELEMENTO"
+T_morado="SEMIPALÍNDROMOS"
 
-amarillo=Creciente,Satélite,Lovegood,Sangre
+amarillo=Jersey,Suéter,Boxers,Bikini
 
-verde=Calvicie,Fortuna,Legítima,Legado
+verde=Botas,Mapa,Zorro,Mochila
 
-azul=Diamante,Cara,Tapa,Vida
+azul=Zapatillas,Madre,José,Tonto
 
-morado=Oro,Aire,Si,He
+morado=Amor,Zorra,Animal,Adán
