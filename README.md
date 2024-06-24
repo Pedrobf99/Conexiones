@@ -13,6 +13,6 @@ amarillo=Jersey,Suéter,Boxers,Bikini
 
 verde=Botas,Mapa,Zorro,Mochila
 
-azul=Zapatillas,Madre,José,Tonto
+azul=Zapatillas,Besos,José,Tonto
 
 morado=Amor,Zorra,Animal,Adán
