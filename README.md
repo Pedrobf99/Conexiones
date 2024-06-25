@@ -1,18 +1,18 @@
 Juego Conexiones
 # Algo algo #
 
-T_amarillo="ANGLICISMOS DE ROPA"
+T_amarillo=" TORTUGAS NINJA"
 
-T_verde="DORA LA EXPLORADORA"
+T_verde=" PENINSULAS EUROPEAS "
 
-T_azul="EL CANTO DEL LOCO"
+T_azul="HABLAN INGLÉS  "
 
-T_morado="SEMIPALÍNDROMOS"
+T_morado="VERDE"
 
-amarillo=Jersey,Suéter,Boxers,Bikini
+amarillo=Rojo,Naranja,Verde,Azul
 
-verde=Botas,Mapa,Zorro,Mochila
+verde=Ibérica,Escandinava,Itálica,Balcánica
 
-azul=Zapatillas,Besos,José,Tonto
+azul=Irlanda,Canadá,Australia,Malta
 
-morado=Amor,Zorra,Animal,Adán
+morado=Bosque,Lima,Oliva,Manzana
