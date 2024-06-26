@@ -1,5 +1,5 @@
 Juego Conexiones
-# Consxiones #
+# Consxiones Hoy #
 
 T_amarillo="INICIO"
 
