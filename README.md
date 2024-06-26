@@ -1,18 +1,18 @@
 Juego Conexiones
 # Algo algo #
 
-T_amarillo=" TORTUGAS NINJA"
+T_amarillo="INICIO"
 
-T_verde=" PENINSULAS EUROPEAS "
+T_verde="CON CAPAS"
 
-T_azul="HABLAN INGLÉS  "
+T_azul="___ DEL AGUA"
 
-T_morado="VERDE"
+T_morado="PAN DE ___"
 
-amarillo=Rojo,Naranja,Verde,Azul
+amarillo=Fuente,Origen,Raíz,Partida
 
-verde=Ibérica,Escandinava,Itálica,Balcánica
+verde=Cebolla,Tarta,Tierra,Lasaña
 
-azul=Irlanda,Canadá,Australia,Malta
+azul=Forma,Ciclo,Desalinización,Potabilidad
 
-morado=Bosque,Lima,Oliva,Manzana
+morado=Huevo,Ajo,Molde,Gambas
