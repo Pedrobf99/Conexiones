@@ -1,5 +1,5 @@
 Juego Conexiones
-# Algo algo #
+# Consxiones #
 
 T_amarillo="INICIO"
 
