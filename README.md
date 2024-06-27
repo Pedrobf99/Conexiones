@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="INICIO"
+T_amarillo="AUSTRALIANOS"
 
-T_verde="CON CAPAS"
+T_verde="UTILIZAN ULTRASONIDOS"
 
-T_azul="___ DEL AGUA"
+T_azul="SUPER RESISTENTES"
 
-T_morado="PAN DE ___"
+T_morado="HUELEN FATAL"
 
-amarillo=Fuente,Origen,Raíz,Partida
+amarillo=Ornitorrinco,Casuario,Dingo,Equidna
 
-verde=Cebolla,Tarta,Tierra,Lasaña
+verde=Murciélago,Beluga,Delfín,Polilla
 
-azul=Forma,Ciclo,Desalinización,Potabilidad
+azul=Tardígrado,Cucaracha,Camello,Rata
 
-morado=Huevo,Ajo,Molde,Gambas
+morado=Hoacín,Chinche,Abubilla,Milpiés
