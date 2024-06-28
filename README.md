@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="AUSTRALIANOS"
+T_amarillo="EQUIPOS DE FÚTBOL"
 
-T_verde="UTILIZAN ULTRASONIDOS"
+T_verde="FORMAS DE MEDIR EL TIEMPO"
 
-T_azul="SUPER RESISTENTES"
+T_azul="PALABRAS ENCADENADAS"
 
-T_morado="HUELEN FATAL"
+T_morado="TIPOS DE QUARKS"
 
-amarillo=Ornitorrinco,Casuario,Dingo,Equidna
+amarillo=Levante,Real,Rayo, Atlético 
 
-verde=Murciélago,Beluga,Delfín,Polilla
+verde=Péndulo,Arena,Sombra,Quarzo
 
-azul=Tardígrado,Cucaracha,Camello,Rata
+azul=Alto,Tomaré,Relámpago,Gobernar
 
-morado=Hoacín,Chinche,Abubilla,Milpiés
+morado=Encantado,Fondo,Extraño,Arriba
