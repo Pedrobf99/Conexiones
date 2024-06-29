@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EQUIPOS DE FÚTBOL"
+T_amarillo="CHOCOLATE"
 
-T_verde="FORMAS DE MEDIR EL TIEMPO"
+T_verde="SINÓNIMO DE CULO"
 
-T_azul="PALABRAS ENCADENADAS"
+T_azul="BAMBI"
 
-T_morado="TIPOS DE QUARKS"
+T_morado="REPETICIÓN DE VOCAL"
 
-amarillo=Levante,Real,Rayo, Atlético 
+amarillo=Avellanas,Blanco,Leche,Polvo
 
-verde=Péndulo,Arena,Sombra,Quarzo
+verde=Pompa,Pandero,Buyate,Retaguardia
 
-azul=Alto,Tomaré,Relámpago,Gobernar
+azul=Ciervo,Flor,Tambor,Madre
 
-morado=Encantado,Fondo,Extraño,Arriba
+morado=Palangana,Enternecer,Inquirir,Sonoro
