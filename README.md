@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CHOCOLATE"
+T_amarillo="EN UNA GRANJA"
 
-T_verde="SINÓNIMO DE CULO"
+T_verde=" PERROS PASTORES  "
 
-T_azul="BAMBI"
+T_azul="GATOS"
 
-T_morado="REPETICIÓN DE VOCAL"
+T_morado="PRODUCTORES DE CAFÉ"
 
-amarillo=Avellanas,Blanco,Leche,Polvo
+amarillo=Pastor,Perro,Oveja,Establo
 
-verde=Pompa,Pandero,Buyate,Retaguardia
+verde=Inglés,Alemán,Australiano,Belga
 
-azul=Ciervo,Flor,Tambor,Madre
+azul=Himalayo,Siberiano,Abisinio,Balinés
 
-morado=Palangana,Enternecer,Inquirir,Sonoro
+morado=Brasil,Colombia,Etiopía,Indonesia
