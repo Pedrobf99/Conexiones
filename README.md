@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EN UNA GRANJA"
+T_amarillo="MUNICIPIOS GALLEGOS"
 
-T_verde=" PERROS PASTORES  "
+T_verde="UN PASTEL..."
 
-T_azul="GATOS"
+T_azul="TIPOS DE OSOS"
 
-T_morado="PRODUCTORES DE CAFÉ"
+T_morado="FRASES DE RAJOY"
 
-amarillo=Pastor,Perro,Oveja,Establo
+amarillo=Cariño,Muros,Redes,Avión 
 
-verde=Inglés,Alemán,Australiano,Belga
+verde=Dulce,Esponjoso,Blando,Colorido
 
-azul=Himalayo,Siberiano,Abisinio,Balinés
+azul=Gominola,Agua,Hormiguero,Amoroso
 
-morado=Brasil,Colombia,Etiopía,Indonesia
+morado=Chuches,Vecino,Tractor,Cita
