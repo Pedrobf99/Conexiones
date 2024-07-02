@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="MUNICIPIOS GALLEGOS"
+T_amarillo="HALLOWEEN AMERICANO"
 
-T_verde="UN PASTEL..."
+T_verde="UN ROTO"
 
-T_azul="TIPOS DE OSOS"
+T_azul="PARECEN DIMIMUTIVOS"
 
-T_morado="FRASES DE RAJOY"
+T_morado="MORADOS"
 
-amarillo=Cariño,Muros,Redes,Avión 
+amarillo=Calabaza,Esqueleto,Truco,Avión 
 
-verde=Dulce,Esponjoso,Blando,Colorido
+verde=Tomate,Agujero,Ojo,Abertura
 
-azul=Gominola,Agua,Hormiguero,Amoroso
+azul=Calabacín,Dorito,Termita,Tortilla
 
-morado=Chuches,Vecino,Tractor,Cita
+morado=Berenjena,Amatista,Uva,Miedo
