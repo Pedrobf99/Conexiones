@@ -9,7 +9,7 @@ T_azul="PARECEN DIMIMUTIVOS"
 
 T_morado="MORADOS"
 
-amarillo=Calabaza,EsqueletoTruco,Chuches 
+amarillo=Calabaza,Esqueleto,Truco,Chuches 
 
 verde=Tomate,Agujero,Ojo,Abertura
 
