@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="HALLOWEEN AMERICANO"
+T_amarillo="RATONES"
 
-T_verde="UN ROTO"
+T_verde="PERROS "
 
-T_azul="PARECEN DIMIMUTIVOS"
+T_azul="AGUA "
 
-T_morado="MORADOS"
+T_morado="NARANJAS"
 
-amarillo=Calabaza,Esqueleto,Truco,Chuches 
+amarillo=Remy,Tico,Jerry,Gonzales
 
-verde=Tomate,Agujero,Ojo,Abertura
+verde=Astro,Dino,Odie,Nana
 
-azul=Calabacín,Dorito,Termita,Tortilla
+azul=Valencia,Dulce,Colonia,Azahar
 
-morado=Berenjena,Amatista,Uva,Miedo
+morado=Amarga,Navel,Salustiana,Sangre
