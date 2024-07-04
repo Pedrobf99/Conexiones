@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="RATONES"
+T_amarillo="CORTÉS"
 
-T_verde="PERROS "
+T_verde="TOMATES"
 
-T_azul="AGUA "
+T_azul="EN ITALIANO"
 
-T_morado="NARANJAS"
+T_morado="PREFIJO DE NEGACIÓN"
 
-amarillo=Remy,Tico,Jerry,Gonzales
+amarillo=Atento,Fino,Cariñoso,Cordial
 
-verde=Astro,Dino,Odie,Nana
+verde=Concentrado,Frito,Salsa,Entero
 
-azul=Valencia,Dulce,Colonia,Azahar
+azul=Autista,Burro,Caldo,Primo
 
-morado=Amarga,Navel,Salustiana,Sangre
+morado=Descentrado,Amorfo,Antisocial,Inepto
