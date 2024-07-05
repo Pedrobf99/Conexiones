@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CORTÉS"
+T_amarillo="EN UN GIMNASIO"
 
-T_verde="TOMATES"
+T_verde="EN UN FESTIVAL"
 
-T_azul="EN ITALIANO"
+T_azul="ANIMALES DE PAISES"
 
-T_morado="PREFIJO DE NEGACIÓN"
+T_morado="PALABRAS CON HOMÓNIMOS"
 
-amarillo=Atento,Fino,Cariñoso,Cordial
+amarillo=Mancuernas,Cinta,Potro, Máquina
 
-verde=Concentrado,Frito,Salsa,Entero
+verde=Pulsera,Barra,Directo,Cartel
 
-azul=Autista,Burro,Caldo,Primo
+azul=Águila,Toro,León,Gallo
 
-morado=Descentrado,Amorfo,Antisocial,Inepto
+morado=Baya,Vaca,Haya,Hierba
