@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EN UN GIMNASIO"
+T_amarillo=" DESAYUNO INGLÉS"
 
-T_verde="EN UN FESTIVAL"
+T_verde="HUEVOS"
 
-T_azul="ANIMALES DE PAISES"
+T_azul=" SETAS "
 
-T_morado="PALABRAS CON HOMÓNIMOS"
+T_morado=" PANES "
 
-amarillo=Mancuernas,Cinta,Potro, Máquina
+amarillo=Alubias,Champiñones,Tomate,Bacon
 
-verde=Pulsera,Barra,Directo,Cartel
+verde=Rancheros,Benedictinos,Revueltos,Ahogados
 
-azul=Águila,Toro,León,Gallo
+azul=Boletus,Portobello,Níscalos,Rebozuelos
 
-morado=Baya,Vaca,Haya,Hierba
+morado=Nokkaido,Pita,Piadina,Mollete
