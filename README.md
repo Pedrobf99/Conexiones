@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo=" DESAYUNO INGLÉS"
+T_amarillo=" FRIENDS"
 
-T_verde="HUEVOS"
+T_verde=" CUCHARAS"
 
-T_azul=" SETAS "
+T_azul=" CAFÉS "
 
-T_morado=" PANES "
+T_morado=" PINOS"
 
-amarillo=Alubias,Champiñones,Tomate,Bacon
+amarillo=Actor,Paleontólogo,Cocinera,Camarera
 
-verde=Rancheros,Benedictinos,Revueltos,Ahogados
+verde=Sopera,Consomé,Café,Postre
 
-azul=Boletus,Portobello,Níscalos,Rebozuelos
+azul=Bombón,Americano,Carajillo,Cortado
 
-morado=Nokkaido,Pita,Piadina,Mollete
+morado=Canadiense,Negro,Canario,Piñonero
