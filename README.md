@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo=" FRIENDS"
+T_amarillo="CUBO DE ___"
 
-T_verde=" CUCHARAS"
+T_verde="DE UNA BRUJA"
 
-T_azul=" CAFÉS "
+T_azul="PALABRAS COMPUESTAS"
 
-T_morado=" PINOS"
+T_morado="MECANO"
 
-amarillo=Actor,Paleontólogo,Cocinera,Camarera
+amarillo=Basura,Palomitas,Cebo,Fregona
 
-verde=Sopera,Consomé,Café,Postre
+verde=Escoba,Gorro,Gato,Caldero
 
-azul=Bombón,Americano,Carajillo,Cortado
+azul=Friegasuelos,Pintalabios,Abrelatas,Cuentagotas
 
-morado=Canadiense,Negro,Canario,Piñonero
+morado=Maquillaje,Luna,Fiesta,Mujer
