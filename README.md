@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CUBO DE ___"
+T_amarillo="TÉ ___"
 
-T_verde="DE UNA BRUJA"
+T_verde="GÉNESIS"
 
-T_azul="PALABRAS COMPUESTAS"
+T_azul="NEMO"
 
-T_morado="MECANO"
+T_morado="EN CANARIAS"
 
-amarillo=Basura,Palomitas,Cebo,Fregona
+amarillo=Verde,Negro,Rojo,Azul
 
-verde=Escoba,Gorro,Gato,Caldero
+verde=Manzana,Serpiente,Costilla,Vergüenza 
 
-azul=Friegasuelos,Pintalabios,Abrelatas,Cuentagotas
+azul=Naranja,Payaso,Buscado,Aleta
 
-morado=Maquillaje,Luna,Fiesta,Mujer
+morado=Plátano,Volcán,Playa,Silbidos
