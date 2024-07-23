@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="TÉ ___"
+T_amarillo="SUPERMERCADOS"
 
-T_verde="GÉNESIS"
+T_verde="SIGNOS DE CALVICIE"
 
-T_azul="NEMO"
+T_azul="ANAGRAMAS"
 
-T_morado="EN CANARIAS"
+T_morado="QUE... QUE... HABRÁ, PUEDE SER MI..."
 
-amarillo=Verde,Negro,Rojo,Azul
+amarillo=Día,Familia,Corte,Campo
 
-verde=Manzana,Serpiente,Costilla,Vergüenza 
+verde=Entrada,Coronilla,Calva,Filloa
 
-azul=Naranja,Payaso,Buscado,Aleta
+azul=Ancestro,Centrais,Contarse,Canteros 
 
-morado=Plátano,Volcán,Playa,Silbidos
+morado=Pasará,Misterio,Gran,Noche
