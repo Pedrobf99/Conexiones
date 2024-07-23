@@ -7,7 +7,7 @@ T_verde="SIGNOS DE CALVICIE"
 
 T_azul="ANAGRAMAS"
 
-T_morado="QUE... QUE... HABRÁ, PUEDE SER MI..."
+T_morado="QUÉ_ QUÉ_ HABRÁ, PUEDE SER MI_"
 
 amarillo=Día,Familia,Corte,Campo
 
