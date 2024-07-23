@@ -13,6 +13,6 @@ amarillo=Día,Familia,Corte,Campo
 
 verde=Entrada,Coronilla,Calva,Filloa
 
-azul=Ancestro,Centrais,Contarse,Canteros 
+azul=Ancestro,Cortasen,Contarse,Canteros 
 
 morado=Pasará,Misterio,Gran,Noche
