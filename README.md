@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="SUPERMERCADOS"
+T_amarillo="MARIO BROS"
 
-T_verde="SIGNOS DE CALVICIE"
+T_verde="POLÍTICOS"
 
-T_azul="ANAGRAMAS"
+T_azul="EN UNA FERIA"
 
-T_morado="QUÉ_ QUÉ_ HABRÁ, PUEDE SER MI_"
+T_morado="THE ___ (EN CASTELLANO)"
 
-amarillo=Día,Familia,Corte,Campo
+amarillo=Fontanero,Rojo,Hermanos,Gorra
 
-verde=Entrada,Coronilla,Calva,Filloa
+verde=Rueda,Iglesias,Casado,Zapatero
 
-azul=Ancestro,Cortasen,Contarse,Canteros 
+azul=Coches,Saltamontes,Barco,Noria
 
-morado=Pasará,Misterio,Gran,Noche
+morado=Escarabajos,Puertas,Quién,Choque
