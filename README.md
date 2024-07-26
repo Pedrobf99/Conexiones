@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="MARIO BROS"
+T_amarillo="ENAMORAMIENTO"
 
-T_verde="POLÍTICOS"
+T_verde="PALPABLE"
 
-T_azul="EN UNA FERIA"
+T_azul="KUZKO"
 
-T_morado="THE ___ (EN CASTELLANO)"
+T_morado="EMPIEZAN CON NÚMEROS"
 
-amarillo=Fontanero,Rojo,Hermanos,Gorra
+amarillo=Física,Real,Tangible,Material
 
-verde=Rueda,Iglesias,Casado,Zapatero
+verde=Química,Amor,Conexión,Atracción
 
-azul=Coches,Saltamontes,Barco,Noria
+azul=Emperador,Llama,Poción,Ayudante
 
-morado=Escarabajos,Puertas,Quién,Choque
+morado=Dosier,Diezmar,Docente,Ciencia
