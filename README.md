@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="ENAMORAMIENTO"
+T_amarillo="MEJORES AMIGOS"
 
-T_verde="PALPABLE"
+T_verde="HIJOS ÚNICOS  "
 
-T_azul="KUZKO"
+T_azul=" LA BELLA Y LA BESTIA"
 
-T_morado="EMPIEZAN CON NÚMEROS"
+T_morado=" INSTRUMENTOS DE PERCUSIÓN"
 
-amarillo=Física,Real,Tangible,Material
+amarillo=Tambor,Flounder,Mikel,Baloo
 
-verde=Química,Amor,Conexión,Atracción
+verde=Jane,Bambi,Mulán,Aurora
 
-azul=Emperador,Llama,Poción,Ayudante
+azul=Chip,Dindon,Lumiere,Sra Potts
 
-morado=Dosier,Diezmar,Docente,Ciencia
+morado=Pandero,Gong,Campana, Cencerro
