@@ -9,7 +9,7 @@ T_azul=" LA BELLA Y LA BESTIA"
 
 T_morado=" INSTRUMENTOS DE PERCUSIÓN"
 
-amarillo=Tambor,Flounder,Mikel,Baloo
+amarillo=Tambor,Flounder,Sully,Baloo
 
 verde=Jane,Bambi,Mulán,Aurora
 
