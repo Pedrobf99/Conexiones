@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="MEJORES AMIGOS"
+T_amarillo="CORTO DE ENTENDIMIENTO"
 
-T_verde="HIJOS ÚNICOS  "
+T_verde="PROBABLES ESTAFAS"
 
-T_azul=" LA BELLA Y LA BESTIA"
+T_azul="SE LE ECHA AL TÉ"
 
-T_morado=" INSTRUMENTOS DE PERCUSIÓN"
+T_morado="SHAKIRA"
 
-amarillo=Tambor,Flounder,Sully,Baloo
+amarillo=Tonta,Inútil,Necia,Estúpida
 
-verde=Jane,Bambi,Mulán,Aurora
+verde=Vidente,Sanadora,Teleoperadora,Astróloga 
 
-azul=Chip,Dindon,Lumiere,Sra Potts
+azul=Boba,Leche,Pasta,Azúcar
 
-morado=Pandero,Gong,Campana, Cencerro
+morado=Bruta,Ciega,Sordomuda,Torpe
