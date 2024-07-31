@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CORTO DE ENTENDIMIENTO"
+T_amarillo="JUNTARSE CON CONOCIDOS"
 
-T_verde="PROBABLES ESTAFAS"
+T_verde="LAPSO DE TIEMPO"
 
-T_azul="SE LE ECHA AL TÉ"
+T_azul="RECIPIENTES LABORATORIO"
 
-T_morado="SHAKIRA"
+T_morado="EMPATE AJEDREZ"
 
-amarillo=Tonta,Inútil,Necia,Estúpida
+amarillo=Salir,Quedar,Reunirse,Juntar
 
-verde=Vidente,Sanadora,Teleoperadora,Astróloga 
+verde=Espera,Prórroga,Dilación,Demora
 
-azul=Boba,Leche,Pasta,Azúcar
+azul=Balón,Gotero,Decantación,Destilación 
 
-morado=Bruta,Ciega,Sordomuda,Torpe
+morado=Acuerdo,Tablas,Repetición,Ahogado
