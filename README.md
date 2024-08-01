@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="JUNTARSE CON CONOCIDOS"
+T_amarillo="EN UN MAPA"
 
-T_verde="LAPSO DE TIEMPO"
+T_verde="BASE DE UN EDIFICIO"
 
-T_azul="RECIPIENTES LABORATORIO"
+T_azul="GRUPO DE ASTROS"
 
-T_morado="EMPATE AJEDREZ"
+T_morado="DECORACIÓN NAVIDEÑA"
 
-amarillo=Salir,Quedar,Reunirse,Juntar
+amarillo=Calavera,X,Brújula,Escala
 
-verde=Espera,Prórroga,Dilación,Demora
+verde=Estructura,Esqueleto,Cimientos,Armazón
 
-azul=Balón,Gotero,Decantación,Destilación 
+azul=Cinturón,Constelación,Sistema,Cúmulo
 
-morado=Acuerdo,Tablas,Repetición,Ahogado
+morado=Árbol,Calcetín,Vela,Gorro
