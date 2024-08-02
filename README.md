@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EN UN MAPA"
+T_amarillo="FORMAS DE AGUA"
 
-T_verde="BASE DE UN EDIFICIO"
+T_verde="COMPLEMENTOS ALIMENTICIOS"
 
-T_azul="GRUPO DE ASTROS"
+T_azul="GRUPO DE OPCIONES"
 
-T_morado="DECORACIÓN NAVIDEÑA"
+T_morado="UTILIZAN ASPAS"
 
-amarillo=Calavera,X,Brújula,Escala
+amarillo=Glaciar,Vapor,Granizo,Delta
 
-verde=Estructura,Esqueleto,Cimientos,Armazón
+verde=Omega,Hierro,Colágeno,Jalea
 
-azul=Cinturón,Constelación,Sistema,Cúmulo
+azul=Abanico,Gama,Espectro,Selección
 
-morado=Árbol,Calcetín,Vela,Gorro
+morado=Turbina,Ventilador,Molino,Helicóptero
