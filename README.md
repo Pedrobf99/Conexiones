@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="FORMAS DE AGUA"
+T_amarillo="PROPIEDADES ATÓMICAS"
 
-T_verde="COMPLEMENTOS ALIMENTICIOS"
+T_verde="LÍMITES DE PLACAS TECTÓNICAS"
 
-T_azul="GRUPO DE OPCIONES"
+T_azul="KARLOS ARGÜIÑANO"
 
-T_morado="UTILIZAN ASPAS"
+T_morado="GRUPOS VOCAL CAMBIADA"
 
-amarillo=Glaciar,Vapor,Granizo,Delta
+amarillo=Valencia,Radio,Afinidad,Ionización
 
-verde=Omega,Hierro,Colágeno,Jalea
+verde=Montaña,Dorsal,Fosa,Falla
 
-azul=Abanico,Gama,Espectro,Selección
+azul=Vasco,Cocinero,Huevos,Chistes
 
-morado=Turbina,Ventilador,Molino,Helicóptero
+morado=Estremadura,Estepa,Mano,Mareo
