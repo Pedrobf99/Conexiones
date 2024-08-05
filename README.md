@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="PROPIEDADES ATÓMICAS"
+T_amarillo="NOCILLA"
 
-T_verde="LÍMITES DE PLACAS TECTÓNICAS"
+T_verde="MÁS VERDES"
 
-T_azul="KARLOS ARGÜIÑANO"
+T_azul="EN EL CUELLO"
 
-T_morado="GRUPOS VOCAL CAMBIADA"
+T_morado="TIENDA DE ___"
 
-amarillo=Valencia,Radio,Afinidad,Ionización
+amarillo=Leche,Cacao,Avellanas,Azúcar
 
-verde=Montaña,Dorsal,Fosa,Falla
+verde=Pistacho,Hulk,Salida,Pepino
 
-azul=Vasco,Cocinero,Huevos,Chistes
+azul=Nuez,Collar,Pañuelo,Soga
 
-morado=Estremadura,Estepa,Mano,Mareo
+morado=Campaña,Música,Gominolas,Juguetes
