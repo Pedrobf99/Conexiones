@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="NOCILLA"
+T_amarillo="APERITIVO"
 
-T_verde="MÁS VERDES"
+T_verde="LAS SUPERNENAS"
 
-T_azul="EN EL CUELLO"
+T_azul="PARTES DE UNA ESPADA"
 
-T_morado="TIENDA DE ___"
+T_morado="HARRY POTTER"
 
-amarillo=Leche,Cacao,Avellanas,Azúcar
+amarillo=Pincho,Tapa,Bocado, Acompañamiento
 
-verde=Pistacho,Hulk,Salida,Pepino
+verde=Pétalo,Burbuja,Cactus,Profesor
 
-azul=Nuez,Collar,Pañuelo,Soga
+azul=Hoja,Pomo,Puño,Punta
 
-morado=Campaña,Música,Gominolas,Juguetes
+morado=Piedra,Cámara,Prisionero,Cáliz
