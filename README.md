@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="MÁS AMARILLOS"
+T_amarillo="CERVEZA ESTRELLA"
 
-T_verde="FARSA"
+T_verde="ACABADO EN _GRAFO"
 
-T_azul="JEFE DE ___"
+T_azul="THE BEATLES_EN CASTELLANO"
 
-T_morado="STAR WARS"
+T_morado="PREMIOS DE CINE"
 
-amarillo=Tortilla,Mostaza,Girasol,Minion
+amarillo=Del Sur,Galicia,Levante,Jalisco
 
-verde=Teatro,Cocodrilo,Cuento,Drama
+verde=boli,auto,foto,poli
 
-azul=Gobierno,Obra,Estado,Equipo
+azul=algo,ayer,ayuda,chica
 
-morado=Esperanza,Imperio,Venganza,Amenaza
+morado=Málaga,Sevilla,Venecia,Berlín
