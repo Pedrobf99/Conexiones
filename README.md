@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CERVEZA ESTRELLA"
+T_amarillo="INICIO PREFIJO NUMÉRICO"
 
-T_verde="ACABADO EN _GRAFO"
+T_verde="TIPO DE PANTALONES"
 
-T_azul="THE BEATLES_EN CASTELLANO"
+T_azul="TOM HANKS"
 
-T_morado="PREMIOS DE CINE"
+T_morado="TIPOS DE CORTE"
 
-amarillo=Del Sur,Galicia,Levante,Jalisco
+amarillo=Tetrapléjico,Triángulo,Monolito,Bidón
 
-verde=boli,auto,foto,poli
+verde=Campana,Pitillo,Chino,Bermudas
 
-azul=algo,ayer,ayuda,chica
+azul=Náufrago,Grande,Milla,Correo
 
-morado=Málaga,Sevilla,Venecia,Berlín
+morado=Inglés,Jardinera,Manga,Francés
