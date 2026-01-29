@@ -11,7 +11,7 @@ T_morado="PERSONA GRANDE"
 
 amarillo=Pala,Taladro,Martillo,Destornillador
 
-verde=Peso-Marco-Libra-Dolar
+verde=Peso,Marco,Libra,Dolar
 
 azul=Hogar,Aquario,Hormiguero,Establo
 
