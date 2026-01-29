@@ -9,7 +9,7 @@ T_azul="MUSEOS DE ..."
 
 T_morado="SIN ___"
 
-amarillo=Compartido,Seguidor,Compra,Navegar,
+amarillo=Compartido,Seguidor,Compra,Navegar
 
 verde=Jamón,Onduladas,Lisas,Camperas
 
