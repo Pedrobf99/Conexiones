@@ -1,18 +1,19 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="HERRAMIENTAS"
+T_amarillo="POR INTERNET"
 
-T_verde="MONEDAS
+T_verde="PATATAS DE PAQUETE"
 
-T_azul="VIVEN ANIMALES,"
+T_azul="MUSEOS DE ..."
 
-T_morado="PERSONA GRANDE"
+T_morado="SIN ___"
 
-amarillo=Pala,Taladro,Martillo,Destornillador
+amarillo=Compartido,Seguidor,Compra,Navegar,
 
-verde=Peso,Marco,Libra,Dolar
+verde=Jamón,Onduladas,Lisas,Camperas
 
-azul=Hogar,Aquario,Hormiguero,Establo
+azul=Cuadros,Ciencia,Historia,Cera
 
-morado=Armario,Gigante,Mastodonte,Magnate
+morado=Embargo,Techo,Gluten,Cero
+
