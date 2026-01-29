@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="INICIO PREFIJO NUMÉRICO"
+T_amarillo="HERRAMIENTAS"
 
-T_verde="TIPO DE PANTALONES"
+T_verde="MONEDAS
 
-T_azul="TOM HANKS"
+T_azul="VIVEN ANIMALES,"
 
-T_morado="TIPOS DE CORTE"
+T_morado="PERSONA GRANDE"
 
-amarillo=Tetrapléjico,Triángulo,Monolito,Bidón
+amarillo=Pala,Taladro,Martillo,Destornillador
 
-verde=Campana,Pitillo,Chino,Bermudas
+verde=Peso-Marco-Libra-Dolar
 
-azul=Náufrago,Grande,Milla,Correo
+azul=Hogar,Aquario,Hormiguero,Establo
 
-morado=Inglés,Jardinera,Manga,Francés
+morado=Armario,Gigante,Mastodonte,Magnate
