@@ -1,19 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="POR INTERNET"
+T_amarillo="INICIO
 
-T_verde="PATATAS DE PAQUETE"
+T_verde="CON CAPAS"
 
-T_azul="MUSEOS DE ..."
+T_azul="___ DEL AGUA
 
-T_morado="SIN ___"
+T_morado="PAN DE ___"
 
-amarillo=Compartido,Seguidor,Compra,Navegar
+amarillo=Fuente,Origen,Raíz,Partida
 
-verde=Jamón,Onduladas,Lisas,Camperas
+verde=Cebolla,Tarta,Tierra,Lasaña
 
-azul=Cuadros,Ciencia,Historia,Cera
+azul=Forma,Ciclo,Desalinización,Potabilidad
 
-morado=Embargo,Techo,Gluten,Cero
-
+morado=Huevo,Ajo,Molde,Gambas
