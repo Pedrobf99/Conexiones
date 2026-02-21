@@ -3,7 +3,7 @@ Juego Conexiones
 
 T_amarillo="MUY TEDIOSO"
 
-T_verde="BANDERAS/LOGO AMARILLO Y ROJO"
+T_verde="BANDERAS AMARILLO Y ROJO"
 
 T_azul="EN UNA BODA"
 
