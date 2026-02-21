@@ -15,4 +15,4 @@ verde=Valencia,Comunismo,McDonald's,Man. United
 
 azul=Arroz,Vestido,Votos,Banquete
 
-morado=Cinco,Misa,Papá,Asunto
+morado=Cinco,Misa,Papa,Asunto
