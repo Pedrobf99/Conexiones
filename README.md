@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="INICIO
+T_amarillo="MUY TEDIOSO"
 
-T_verde="CON CAPAS"
+T_verde="BANDERAS/LOGO AMARILLO Y ROJO"
 
-T_azul="___ DEL AGUA
+T_azul="EN UNA BODA"
 
-T_morado="PAN DE ___"
+T_morado="DICHOS DE AITANA"
 
-amarillo=Fuente,Origen,Raíz,Partida
+amarillo=Petardo,Lata,Rollo,Aburrido
 
-verde=Cebolla,Tarta,Tierra,Lasaña
+verde=Valencia,Comunismo,McDonald's,Man. United
 
-azul=Forma,Ciclo,Desalinización,Potabilidad
+azul=Arroz,Vestido,Votos,Banquete
 
-morado=Huevo,Ajo,Molde,Gambas
+morado=Cinco,Misa,Papá,Asunto
