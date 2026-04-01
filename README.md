@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="MUY TEDIOSO"
+T_amarillo="ENSALADAS"
 
-T_verde="BANDERA AMARILLA Y ROJA"
+T_verde="EN UNA ETIQUETA"
 
-T_azul="EN UNA BODA"
+T_azul="CUELGAN DE UN HILO"
 
-T_morado="DICHOS DE AITANA"
+T_morado="CONTIENEN UN MES"
 
-amarillo=Petardo,Lata,Rollo,Aburrido
+amarillo=César,Griega,Caprese,Huerta
 
-verde=Valencia,Comunismo,McDonalds,Man United
+verde=Calorías,Caducidad,Barras,Ingredientes
 
-azul=Arroz,Vestido,Votos,Banquete
+azul=Columpio,Péndulo,Ascensor,Yoyó
 
-morado=Cinco,Misa,Papa,Asunto
+morado=Mayonesa,Arenero,Julios,Cabrilla
