@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="ENSALADAS"
+T_amarillo="RECIPIENTES"
 
-T_verde="EN UNA ETIQUETA"
+T_verde="PARTES DE UNA MANZANA"
 
-T_azul="CUELGAN DE UN HILO"
+T_azul="EN LA VÍA PÚBLICA"
 
-T_morado="CONTIENEN UN MES"
+T_morado="___ ESPACIAL"
 
-amarillo=César,Griega,Caprese,Huerta
+amarillo=Bote,Lata,Copa,Vaso
 
-verde=Calorías,Caducidad,Barras,Ingredientes
+verde=Corazón,Piel,Semilla,Tallo
 
-azul=Columpio,Péndulo,Ascensor,Yoyó
+azul=Crucero,Arteria,Paseo,Vial
 
-morado=Mayonesa,Arenero,Julios,Cabrilla
+morado=Nave,Distribución,Visión,Lanzadera
