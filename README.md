@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="RECIPIENTES"
+T_amarillo="IMPACTO"
 
-T_verde="PARTES DE UNA MANZANA"
+T_verde="SIGNOS DE CALVICIE"
 
 T_azul="EN LA VÍA PÚBLICA"
 
 T_morado="___ ESPACIAL"
 
-amarillo=Bote,Lata,Copa,Vaso
+amarillo=Choque,Golpe,Leche,Galleta
 
-verde=Corazón,Piel,Semilla,Tallo
+verde=Entrada,Escasez,Coronilla,Caída
 
-azul=Crucero,Arteria,Paseo,Vial
+azul=Cabe,Contra,Para,Sobre
 
-morado=Nave,Distribución,Visión,Lanzadera
+morado=Cuerda,Cardo,Crudo,Cerdo
