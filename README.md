@@ -5,9 +5,9 @@ T_amarillo="IMPACTO"
 
 T_verde="SIGNOS DE CALVICIE"
 
-T_azul="EN LA VÍA PÚBLICA"
+T_azul="PREPOSICIONES"
 
-T_morado="___ ESPACIAL"
+T_morado="C_R_D_ (añadiendo vocales)"
 
 amarillo=Choque,Golpe,Leche,Galleta
 
