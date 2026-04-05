@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="IMPACTO"
+T_amarillo="DIFERENTE"
 
-T_verde="SIGNOS DE CALVICIE"
+T_verde="AVERGONZADO"
 
-T_azul="PREPOSICIONES"
+T_azul="MONOS"
 
-T_morado="C_R_D_ (añadiendo vocales)"
+T_morado="SUEÑO ___"
 
-amarillo=Choque,Golpe,Leche,Galleta
+amarillo=Solo,Único,Singular,Exclusivo 
 
-verde=Entrada,Escasez,Coronilla,Caída
+verde=Cortado,Gallina,Tímido,Indeciso
 
-azul=Cabe,Contra,Para,Sobre
+azul=Aullador,Araña,Capuchino,Anteojos
 
-morado=Cuerda,Cardo,Crudo,Cerdo
+morado=Americano,Lúcido,Febril,Profundo
