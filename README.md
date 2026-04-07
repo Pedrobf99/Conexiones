@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="DIFERENTE"
+T_amarillo="DAR DIRECCIONES"
 
-T_verde="AVERGONZADO"
+T_verde="NOMBRE DE LETRAS"
 
-T_azul="MONOS"
+T_azul="BOBINADO DE HILO"
 
-T_morado="SUEÑO ___"
+T_morado="DTMF BAD BUNNY"
 
-amarillo=Solo,Único,Singular,Exclusivo 
+amarillo=Este,Derecha,Recto,Gira
 
-verde=Cortado,Gallina,Tímido,Indeciso
+verde=Té,Ese,Jota,Equis 
 
-azul=Aullador,Araña,Capuchino,Anteojos
+azul=Carrete,Bobina,Rollo,Tambor
 
-morado=Americano,Lúcido,Febril,Profundo
+morado=Baile,Fotos,Café,Apagón 
