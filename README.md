@@ -3,16 +3,16 @@ Juego Conexiones
 
 T_amarillo="DAR DIRECCIONES"
 
-T_verde="NOMBRE DE LETRAS"
+T_verde="ANTÓNIMO DE GENEROSO"
 
-T_azul="BOBINADO DE HILO"
+T_azul="CONJUGANDO IR"
 
-T_morado="DTMF BAD BUNNY"
+T_morado="INICIO CON NOTAS MUSICALES"
 
-amarillo=Este,Derecha,Recto,Gira
+amarillo=Gas natural,Madera,Pellets,Electricidad 
 
-verde=Té,Ese,Jota,Equis 
+verde=Estrecho,Tacaño,Agarrado,Rata
 
-azul=Carrete,Bobina,Rollo,Tambor
+azul=Irán,Vaya,Fuera,Ve
 
-morado=Baile,Fotos,Café,Apagón 
+morado=Donald,Revisa,Mira,Factura
