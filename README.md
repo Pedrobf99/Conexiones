@@ -1,7 +1,7 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="DAR DIRECCIONES"
+T_amarillo="CALEFACCIÓN"
 
 T_verde="ANTÓNIMO DE GENEROSO"
 
