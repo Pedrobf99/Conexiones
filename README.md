@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="CALEFACCIÓN"
+T_amarillo="APTO"
 
-T_verde="ANTÓNIMO DE GENEROSO"
+T_verde="NO ESTÁ MADURO"
 
-T_azul="CONJUGANDO IR"
+T_azul="DE IZQUIERDAS"
 
-T_morado="INICIO CON NOTAS MUSICALES"
+T_morado="___ MARINO"
 
-amarillo=Gas natural,Madera,Pellets,Electricidad 
+amarillo=Diestro,Hábil,Capaz,Válido 
 
-verde=Estrecho,Tacaño,Agarrado,Rata
+verde=Verde,Temprano,Joven,Tierno
 
-azul=Irán,Vaya,Fuera,Ve
+azul=Rojo,Zurdo,Radical,Woke
 
-morado=Donald,Revisa,Mira,Factura
+morado=Azul,León,Elefante,Ultra
