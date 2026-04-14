@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="APTO"
+T_amarillo="EN LA OREJA"
 
-T_verde="NO ESTÁ MADURO"
+T_verde="GOMINOLAS"
 
-T_azul="DE IZQUIERDAS"
+T_azul="CÓCTELES"
 
-T_morado="___ MARINO"
+T_morado="CUELLO DE ___"
 
-amarillo=Diestro,Hábil,Capaz,Válido 
+amarillo=Yunke,Estribo,Martillo,Caracol
 
-verde=Verde,Temprano,Joven,Tierno
+verde=Llave,Osito,Melocotón,Dedo
 
-azul=Rojo,Zurdo,Radical,Woke
+azul=Destornillador,Margarita,Mimosa,Manhattan
 
-morado=Azul,León,Elefante,Ultra
+morado=Camisa,Útero,Cisne,Botella
