@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EN LA OREJA"
+T_amarillo="RESULTAR AGRADABLE"
 
-T_verde="GOMINOLAS"
+T_verde="CARACTERÍSTICO DE UN ELEFANTE"
 
-T_azul="CÓCTELES"
+T_azul="BORRACHERA"
 
-T_morado="CUELLO DE ___"
+T_morado="PLAGAS DE EGIPTO"
 
-amarillo=Yunke,Estribo,Martillo,Caracol
+amarillo=Molar,Atraer,Gustar,Complacer
 
-verde=Llave,Osito,Melocotón,Dedo
+verde=Trompa,Orejas,Colmillos,Piel
 
-azul=Destornillador,Margarita,Mimosa,Manhattan
+azul=Tajada,Castaña,Mona,Merluza
 
-morado=Camisa,Útero,Cisne,Botella
+morado=Peste,Langostas,Sangre,Ranas
