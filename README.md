@@ -9,7 +9,7 @@ T_azul="CON "H" INTERCALADA"
 
 T_morado="BANCO DE ___"
 
-amarillo=Fruto,Rama,Raíz,Sabia
+amarillo=Fruto,Rama,Raíz,Savia
 
 verde=Tarjeta,Efectivo,Puntos,Plazos
 
