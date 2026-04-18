@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="RESULTAR AGRADABLE"
+T_amarillo="EN UN ÁRBOL"
 
-T_verde="CARACTERÍSTICO DE UN ELEFANTE"
+T_verde="FORMAS DE PAGO"
 
-T_azul="BORRACHERA"
+T_azul="CON "H" INTERCALADA"
 
-T_morado="PLAGAS DE EGIPTO"
+T_morado="BANCO DE ___"
 
-amarillo=Molar,Atraer,Gustar,Complacer
+amarillo=Fruto,Rama,Raíz,Sabia
 
-verde=Trompa,Orejas,Colmillos,Piel
+verde=Tarjeta,Efectivo,Puntos,Plazos
 
-azul=Tajada,Castaña,Mona,Merluza
+azul=Ahorro,Alcohol,Cacahuete,Búho 
 
-morado=Peste,Langostas,Sangre,Ranas
+morado=Alimentos,Inversiones,Peces,Datos
