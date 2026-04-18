@@ -5,7 +5,7 @@ T_amarillo="EN UN ÁRBOL"
 
 T_verde="FORMAS DE PAGO"
 
-T_azul="CON "H" INTERCALADA"
+T_azul="CON H INTERCALADA"
 
 T_morado="BANCO DE ___"
 
