@@ -1,18 +1,18 @@
 Juego Conexiones
 # Consxiones Hoy #
 
-T_amarillo="EN UN ÁRBOL"
+T_amarillo="ACEITE DE ___"
 
-T_verde="FORMAS DE PAGO"
+T_verde="MONOSÍLABOS"
 
-T_azul="CON H INTERCALADA"
+T_azul="PALABRAS QUE RIMAN"
 
-T_morado="BANCO DE ___"
+T_morado="PALABRAS COMPUESTAS"
 
-amarillo=Fruto,Rama,Raíz,Savia
+amarillo=🌻,🫒,🥥,🥑
 
-verde=Tarjeta,Efectivo,Puntos,Plazos
+verde=☀️,🌷,🐟,🧂
 
-azul=Ahorro,Alcohol,Cacahuete,Búho 
+azul=🌮,🧮,🐒,🚬
 
-morado=Alimentos,Inversiones,Peces,Datos
+morado=🎰,🚡,🎮,🔊
